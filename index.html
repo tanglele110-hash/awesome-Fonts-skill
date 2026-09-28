@@ -62,6 +62,7 @@ p,h3{margin:0}h3{font-weight:inherit;font-size:inherit}
 .font-card-poster .font-card-heading h3 { display: flex; align-items: center; justify-content: flex-end; gap: 6px; }
 .font-card-poster .font-card-heading h3 > span { flex: 0 1 auto; }
 .gallery>.reference-site{margin-bottom:0}.font-card-heading a{display:block}.font-card-heading h3 a{display:block;text-align:right}
+.font-card-heading .font-name-line{display:block;white-space:nowrap}
 .font-specimen{cursor:pointer;position:relative;flex-shrink:0}.font-specimen[data-loading]{visibility:hidden}.font-load-status{position:absolute;top:24px;left:22px;right:22px;color:var(--muted);font-size:12px;z-index:1}
 .font-load-status button{display:block;text-decoration:underline;padding:8px 0}.font-card{position:relative}.document-actions a{display:inline-flex;align-items:center;gap:5px;min-height:32px;font-size:12px;color:#666660}.document-actions svg{width:14px;height:14px}.document-actions button{padding:0}.font-card-heading .card-link{overflow:visible}.font-specimen:focus-visible{outline-offset:-4px}
 @media(max-width:1150px){.layout{grid-template-columns:180px minmax(0,1fr)}main{padding:22px}.gallery{--columns:2}}
@@ -106,7 +107,7 @@ const icon='<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-wi
 const nodes=fonts.map(font=>{
  const card=document.createElement('article');card.className='card reference-site font-card font-card-poster'+(font.pinyin?' font-card-pinyin':'');card.dataset.id=font.id;card.dataset.fontStatus='loading';
  const link=document.createElement('a');link.className='card-link';link.href=font.source.url;link.target='_blank';link.rel='noopener noreferrer';link.setAttribute('aria-label',font.name+' · '+font.variant+' · 查看字体来源');
- const headingWrap=document.createElement('div');headingWrap.className='font-card-heading';const heading=document.createElement('h3');link.textContent=font.name;heading.append(link);const variant=document.createElement('span');variant.textContent=font.variant;headingWrap.append(heading,variant);card.append(headingWrap);
+ const headingWrap=document.createElement('div');headingWrap.className='font-card-heading';const heading=document.createElement('h3');if(font.id==='line-seed-tw'){for(const text of ['LINE Seed','（S2CTW 简转繁版）']){const line=document.createElement('span');line.className='font-name-line';line.textContent=text;link.append(line);}}else{link.textContent=font.name;}heading.append(link);const variant=document.createElement('span');variant.textContent=font.variant;headingWrap.append(heading,variant);card.append(headingWrap);
  const specimen=document.createElement('div');specimen.className='font-specimen';specimen.dataset.loading='';specimen.style.fontFamily='preview-'+font.id;specimen.style.fontSynthesis='none';specimen.tabIndex=0;specimen.setAttribute('role','link');specimen.setAttribute('aria-label',font.name+' · 查看字体来源');
  specimen.addEventListener('click',()=>{if(!window.getSelection()?.toString())window.open(font.source.url,'_blank','noopener,noreferrer');});specimen.addEventListener('keydown',e=>{if(e.key==='Enter'){e.preventDefault();window.open(font.source.url,'_blank','noopener,noreferrer');}});
  const chinese=document.createElement('div');chinese.lang='zh';chinese.className='font-specimen-chinese font-poster-chinese';const sample=Array.from(font.sampleText.replace(/\s/g,''));
