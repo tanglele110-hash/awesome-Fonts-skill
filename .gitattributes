@@ -6,3 +6,5 @@
 *.html text eol=lf
 *.png binary
 *.woff2 binary
+# Preserve upstream license snapshots byte-for-byte for their recorded SHA-256.
+assets/fonts/licenses/upstream/*.txt -text
