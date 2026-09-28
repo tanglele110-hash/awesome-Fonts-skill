@@ -40,4 +40,4 @@
 
 网页字体为样张子集，完整字库请到来源获取。[字体许可记录](assets/fonts/licenses/README.md)随样张保留；原创脚本与说明采用 [MIT License](LICENSE)。
 
-整理：木渡川
+[整理：木渡川@tanglele0318](https://x.com/tanglele0318)
