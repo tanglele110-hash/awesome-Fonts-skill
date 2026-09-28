@@ -1,13 +1,13 @@
 [
   {
-    "id": "swei-heading",
-    "family": "Swei Fan Serif CJK JP",
-    "file": "assets/ui/swei-heading.woff2",
-    "licenseFile": "assets/ui/swei-heading-LICENSE.txt",
-    "source": "https://github.com/max32002/swei-fan-serif",
+    "id": "chienchia-heading",
+    "family": "ChienChia F",
+    "file": "assets/ui/chienchia-heading.woff2",
+    "licenseFile": "assets/ui/chienchia-heading-LICENSE.txt",
+    "source": "https://github.com/Tsao-Tung/Chienchia",
     "characters": 4,
-    "bytes": 1224,
-    "sha256": "68d92660b36d588a51583c9f08144d958403b77043dbd50868c2dbbca105004c"
+    "bytes": 1712,
+    "sha256": "5f8c2b244c07c5197e6ec3fb452cf158807b36f1fa87602c3036c567fff66042"
   },
   {
     "id": "wenjin-interface",
@@ -16,7 +16,7 @@
     "licenseFile": "assets/ui/wenjin-interface-LICENSE.txt",
     "source": "https://github.com/takushun-wu/WenJinMincho",
     "characters": 603,
-    "bytes": 159984,
-    "sha256": "38749f35ed25bf7c9c64659d49cea73d02451d78e450ce967fb5c121112c9549"
+    "bytes": 160268,
+    "sha256": "88081485609b8fed512a971846c44e90b8824e0e68a3330804ff776755049820"
   }
 ]
