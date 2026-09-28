@@ -1,0 +1,43 @@
+# awesome-Fonts-skill
+
+收录 113 款中文字体及变体，按字形分类，附样张与来源。可在线浏览，也可作为 Skill 为文章、网页和海报选字、搭配。
+
+[在线浏览字体](https://tanglele110-hash.github.io/awesome-Fonts-skill/) · [字体清单](CATALOG.md)
+
+## 字体目录
+
+### 黑体
+
+![黑体](assets/sans.png)
+
+### 宋体 / 仿宋
+
+![宋体与仿宋](assets/serif.png)
+
+### 楷体
+
+![楷体](assets/kai.png)
+
+### 圆体
+
+![圆体](assets/rounded.png)
+
+### 手写 / 书法
+
+![手写与书法](assets/handwritten.png)
+
+## 如何使用
+
+打开[字体页面](https://tanglele110-hash.github.io/awesome-Fonts-skill/)，按分类、标签或名称筛选，点击卡片查看字体来源。
+
+在支持 Skill 的工具中，将整个仓库下载为 `awesome-fonts-skill`，放入工具的 Skills 目录，然后说明用途和风格：
+
+> 使用 $awesome-fonts-skill，为一篇中文长文搭配标题和正文字体，偏安静、有书卷感，并提供字体来源。
+
+## 授权与来源
+
+字体版权归原作者，来源与授权记录见[字体清单](CATALOG.md)。授权尚未逐款复核，使用请以原项目许可为准。
+
+本仓库原创脚本与说明采用 [MIT License](LICENSE)。
+
+整理：木渡川
