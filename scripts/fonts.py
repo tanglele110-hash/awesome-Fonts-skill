@@ -32,6 +32,8 @@ def render(data):
 
 
 def validate(data):
+    import hashlib
+    import re
     assert data['schemaVersion'] == 1
     fonts = data['fonts']
     assert fonts and len({f['id'] for f in fonts}) == len(fonts), 'Empty catalog or duplicate IDs'
@@ -52,15 +54,24 @@ def validate(data):
         assert isinstance(f['license']['recordedLabel'], str) and f['license']['recordedLabel']
         assert f['license']['status'] == 'unverified'
     assert (ROOT / 'CATALOG.md').read_text(encoding='utf-8') == render(data), 'Run build to update CATALOG.md'
+    previews = json.loads((ROOT / 'data/preview-fonts.json').read_text(encoding='utf-8'))
+    assert {p['id'] for p in previews} == {f['id'] for f in fonts}
+    expected_previews = {f"assets/fonts/{f['id']}-preview.woff2" for f in fonts}
+    assert {p['file'] for p in previews} == expected_previews
+    assert {p.relative_to(ROOT).as_posix() for p in ROOT.rglob('*.woff2')} == expected_previews
+    for p in previews:
+        binary = (ROOT / p['file']).read_bytes()
+        assert binary[:4] == b'wOF2' and len(binary) == p['bytes']
+        assert hashlib.sha256(binary).hexdigest() == p['sha256']
     for file in ROOT.rglob('*'):
         if not file.is_file() or '.git' in file.parts:
             continue
-        assert file.suffix.lower() not in {'.woff2', '.woff', '.otf', '.ttf', '.ttc', '.bak', '.log'}, 'Unexpected bundled artifact'
+        assert file.suffix.lower() not in {'.woff', '.otf', '.ttf', '.ttc', '.bak', '.log'}, 'Unexpected bundled artifact'
         if file.suffix in {'.md', '.json', '.py', '.yml'}:
             text = file.read_text(encoding='utf-8')
             assert not text.startswith('\ufeff'), f'BOM: {file.name}'
-            drive_path = chr(58) + chr(92)
-            assert drive_path not in text and ('base64' + ',') not in text, f'Private/runtime data: {file.name}'
+            drive_path = re.search(r'(?<![A-Za-z])[A-Za-z]:[\\/]', text)
+            assert not drive_path and ('base64' + ',') not in text, f'Private/runtime data: {file.name}'
     return len(fonts)
 
 

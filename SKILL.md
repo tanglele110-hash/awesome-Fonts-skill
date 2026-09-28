@@ -29,8 +29,8 @@ Filter using the brief's usage, language, size and style. Offer a small differen
   Usage tags are design judgments; script tags describe the recorded specimen, not complete character coverage. Sample text is not a rendered specimen.
 - `license.recordedLabel` 是原收藏记录，`status: unverified` 不能作为最新商用、嵌入、修改或再分发许可。需要这些结论时访问具体作者仓库或官方授权页，核对目标版本；查不到就说明未验证。来源是第三方合集时继续找一手依据。
   Recorded license labels are not current verification. Check the exact upstream version and license for the intended use; follow collection links to primary evidence when necessary.
-- 仓库不带字体二进制；不得声称本地固定样张 WOFF2 子集是完整可用字体。安装或接入前，从核验过的来源获取完整字体，检查用户实际文字的字形覆盖。
-  No font binaries are bundled. Do not substitute a fixed specimen subset for a full font. Check the actual requested text against the selected font file.
+- 仓库的 `assets/fonts/` 只含网页样张 WOFF2 子集；不得将其当作完整可用字体。安装或接入前，从核验过的来源获取完整字体，检查用户实际文字的字形覆盖。
+  Only fixed specimen WOFF2 subsets are bundled for the gallery. Do not substitute these for a full font. Check the actual requested text against the selected font file.
 - `latinSampleSupported` 只来自原样张记录；不能证明所有拉丁字符、标点或语言的覆盖。混排时标明中文字库和西文字库各自角色。
   Latin sample support is limited evidence, not full language coverage. Identify each font's role in mixed-script layouts.
 - `family` 是记录名称；CSS 接入需以实际字体文件内部名称、字重与格式为准。生成建议可以继续；用户要求实现时再验证字体加载、fallback、缺字、移动端排版。

@@ -1,0 +1,793 @@
+[
+  {
+    "id": "qiji",
+    "name": "齐伋体",
+    "copyright": "Copyright (c) 2020, Lingdong Huang",
+    "licenseNotice": null,
+    "licenseUrl": null
+  },
+  {
+    "id": "xiangcui",
+    "name": "香萃刻宋",
+    "copyright": null,
+    "licenseNotice": null,
+    "licenseUrl": null
+  },
+  {
+    "id": "shanggu",
+    "name": "尚古",
+    "copyright": "© 2022-2026 Shanggu Fonts.",
+    "licenseNotice": null,
+    "licenseUrl": null
+  },
+  {
+    "id": "wenkai",
+    "name": "霞鹜文楷 GB",
+    "copyright": "Copyright 2022-2026 LXGW (https://github.com/lxgw/LxgwWenkaiGB)\nCopyright 2020 The Klee Project Authors (https://github.com/fontworks-fonts/Klee)",
+    "licenseNotice": null,
+    "licenseUrl": null
+  },
+  {
+    "id": "wenjin",
+    "name": "文津宋体",
+    "copyright": "Copyright (c) 2024-2026, Takushun Wu (https://github.com/takushun-wu/), with Reserved Font Name 'WenJin Mincho', '文津宋体', '文津宋體', '文津明朝', '문진(文津) 명조'. This font set contains glyphs from other fonts, the original authors of which own the copyright of the corresponding glyphs. For details, please refer to the license file attached to this font set.",
+    "licenseNotice": null,
+    "licenseUrl": null
+  },
+  {
+    "id": "chienchia",
+    "name": "蒹葭楷",
+    "copyright": "Copyright 2025 Tsao Tung 躁動\nCopyright 2020 The Klee Project Authors (https://github.com/fontworks-fonts/Klee)",
+    "licenseNotice": null,
+    "licenseUrl": null
+  },
+  {
+    "id": "yuan975",
+    "name": "975 圆体",
+    "copyright": "Copyright 2020-2026 LXGW (https://github.com/lxgw/975Yuan), with Reserved Font Name '霞鹜', '霞鶩', '落霞孤鹜', '落霞孤鶩' and 'LXGW'.\nCopyright 2014-2025 Adobe (http://www.adobe.com/), with Reserved Font Name 'Source'. Source is a trademark of Adobe in the United States and/or other countries.\nCopyright 2024-2026 Tamcy (https://github.com/chiron-fonts/chiron-go-round-tc).\nCopyright 2024-2026 Takushun Wu (https://github.com/takushun-wu/), with Reserved Font Name 'WenYuan Rounded', '文渊圆体'.\nCopyright 2020 Chun yu Yao (https://github.com/max32002/swei-gothic)\nCopyright 2019 Ek Type (www.ektype.in)",
+    "licenseNotice": null,
+    "licenseUrl": null
+  },
+  {
+    "id": "childfun",
+    "name": "童趣黑体",
+    "copyright": "Copyright 2023-2026 Des-Magmeta (https://github.com/Des-Magmeta/ChildFunSans), Copyright 2020 The Stick Project Authors (https://github.com/fontworks-fonts/Stick/)",
+    "licenseNotice": null,
+    "licenseUrl": null
+  },
+  {
+    "id": "smiley",
+    "name": "得意黑",
+    "copyright": "Copyright © 2022–2024 atelierAnchor. All rights reserved.",
+    "licenseNotice": null,
+    "licenseUrl": null
+  },
+  {
+    "id": "lxgw-wenkai",
+    "name": "霞鹜文楷",
+    "copyright": "Copyright 2021-2026 LXGW (https://github.com/lxgw/LxgwWenKai)\nCopyright 2020 The Klee Project Authors (https://github.com/fontworks-fonts/Klee)",
+    "licenseNotice": null,
+    "licenseUrl": null
+  },
+  {
+    "id": "source-han-sans",
+    "name": "思源黑体",
+    "copyright": "© 2014-2025 Adobe (http://www.adobe.com/), with Reserved Font Name 'Source'.",
+    "licenseNotice": null,
+    "licenseUrl": null
+  },
+  {
+    "id": "source-han-serif",
+    "name": "思源宋体",
+    "copyright": "© 2017-2024 Adobe (http://www.adobe.com/), with Reserved Font Name 'Source'.",
+    "licenseNotice": null,
+    "licenseUrl": null
+  },
+  {
+    "id": "zcool-kuaile",
+    "name": "站酷快乐体",
+    "copyright": "Copyright 2018 The ZCOOL KuaiLe Project Authors (https://github.com/googlefonts/zcool-kuaile)",
+    "licenseNotice": null,
+    "licenseUrl": null
+  },
+  {
+    "id": "zcool-qingke-huangyou",
+    "name": "站酷庆科黄油体",
+    "copyright": "Copyright 2018 The ZCOOL QingKe HuangYou Project Authors (https://www.github.com/googlefonts/zcool-qingke-huangyou)",
+    "licenseNotice": null,
+    "licenseUrl": null
+  },
+  {
+    "id": "zcool-xiaowei",
+    "name": "站酷小薇体",
+    "copyright": "Copyright 2018 The ZCOOL XiaoWei Project Authors (https://www.github.com/googlefonts/xiaowei)",
+    "licenseNotice": null,
+    "licenseUrl": null
+  },
+  {
+    "id": "ma-shan-zheng",
+    "name": "马善政毛笔体",
+    "copyright": "Copyright 2018 The MaShanZheng Project Authors (https://github.com/googlefonts/mashanzheng)",
+    "licenseNotice": null,
+    "licenseUrl": null
+  },
+  {
+    "id": "tiejili",
+    "name": "铁蒺藜体",
+    "copyright": "Copyright © 2022 Buernia (https://github.com/Buernia).",
+    "licenseNotice": null,
+    "licenseUrl": null
+  },
+  {
+    "id": "maple-mono",
+    "name": "Maple Mono",
+    "copyright": "Copyright 2022 The Maple Mono Project Authors (https://github.com/subframe7536/maple-font)",
+    "licenseNotice": null,
+    "licenseUrl": null
+  },
+  {
+    "id": "kose-xiaolai",
+    "name": "咲莱体",
+    "copyright": "Copyright 2020-2024 LXGW (https://github.com/lxgw/kose-font)\r\nCopyright 2014 Nozomi Seto (https://ja.osdn.net/projects/setofont/)",
+    "licenseNotice": null,
+    "licenseUrl": null
+  },
+  {
+    "id": "yozai",
+    "name": "悠哉体",
+    "copyright": "Copyright 2020, 2024 LXGW (https://github.com/lxgw/yozai-font)\r\nOriginal Font Data Copyright (C) Y.OzVox.",
+    "licenseNotice": null,
+    "licenseUrl": null
+  },
+  {
+    "id": "zhi-mang-xing",
+    "name": "钟齐志莽行书",
+    "copyright": "Copyright 2018 The ZhiMangXing Project Authors (https://github.com/googlefonts/zhimangxing)",
+    "licenseNotice": null,
+    "licenseUrl": null
+  },
+  {
+    "id": "liu-jian-mao-cao",
+    "name": "刘建毛草",
+    "copyright": "Copyright 2018 The Liu Jian Mao Cao Project Authors (https://www.github.com/googlefonts/liujianmaocao)",
+    "licenseNotice": null,
+    "licenseUrl": null
+  },
+  {
+    "id": "long-cang",
+    "name": "龙藏",
+    "copyright": "Copyright 2018 The LongCang Project Authors (https://github.com/googlefonts/longcang)",
+    "licenseNotice": null,
+    "licenseUrl": null
+  },
+  {
+    "id": "lxgw-marker-gothic",
+    "name": "LXGW Marker Gothic",
+    "copyright": "Copyright 2024 The LXGW Marker Gothic Project Authors (https://github.com/lxgw/LxgwMarkerGothic)",
+    "licenseNotice": null,
+    "licenseUrl": null
+  },
+  {
+    "id": "975hei",
+    "name": "975黑",
+    "copyright": "Copyright 2020, 2026 LXGW (https://github.com/lxgw/975Hei)\nCopyright 2014-2025 Adobe (http://www.adobe.com/)\nCopyright 2024-2026 Takushun Wu (https://github.com/takushun-wu/)\nCopyright 2014 Indian Type Foundry (https://github.com/itfoundry/)\nCopyright 2018 o_tamon (https://okoneya.jp/font/)",
+    "licenseNotice": null,
+    "licenseUrl": null
+  },
+  {
+    "id": "black-sugar-plum-candy",
+    "name": "BlackSugarPlumCandy",
+    "copyright": "Copyright 2019-2026 LXGW (https://github.com/lxgw/BlackSugarPlumCandy)\nCopyright 2014-2025 Adobe (http://www.adobe.com/), with Reserved Font Name 'Source'. Source is a trademark of Adobe in the United States and/or other countries.\nCopyright 2015 M+ FONTS PROJECT\nCopyright 2018 The BM JUA Project Authors",
+    "licenseNotice": null,
+    "licenseUrl": null
+  },
+  {
+    "id": "lxgw-bright",
+    "name": "LxgwBright",
+    "copyright": "Copyright (c) 2015 Ysabeau Project Authors (github.com/CatharsisFonts/Ysabeau)\nCopyright 2022-2025 LXGW (https://github.com/lxgw/LxgwWenkaiTC)\r\nCopyright 2020 The Klee Project Authors (https://github.com/fontworks-fonts/Klee)",
+    "licenseNotice": null,
+    "licenseUrl": null
+  },
+  {
+    "id": "iansui",
+    "name": "芫荽体",
+    "copyright": "Copyright 2025 The Iansui Project Authors (https://github.com/ButTaiwan/iansui)",
+    "licenseNotice": "Copyright 2025 The Iansui Project Authors (https://github.com/ButTaiwan/iansui).\n\nThis Font Software is licensed under the SIL Open Font License, Version 1.1.\nThis license is copied below, and is also available with a FAQ at:\nhttps://scripts.sil.org/OFL\n\n\n-----------------------------------------------------------\nSIL OPEN FONT LICENSE Version 1.1 - 26 February 2007\n-----------------------------------------------------------\n\nPREAMBLE\nThe goals of the Open Font License (OFL) are to stimulate worldwide\ndevelopment of collaborative font projects, to support the font creation\nefforts of academic and linguistic communities, and to provide a free and\nopen framework in which fonts may be shared and improved in partnership\nwith others.\n\nThe OFL allows the licensed fonts to be used, studied, modified and\nredistributed freely as long as they are not sold by themselves. The\nfonts, including any derivative works, can be bundled, embedded, \nredistributed and/or sold with any software provided that any reserved\nnames are not used by derivative works. The fonts and derivatives,\nhowever, cannot be released under any other type of license. The\nrequirement for fonts to remain under this license does not apply\nto any document created using the fonts or their derivatives.\n\nDEFINITIONS\n\"Font Software\" refers to the set of files released by the Copyright\nHolder(s) under this license and clearly marked as such. This may\ninclude source files, build scripts and documentation.\n\n\"Reserved Font Name\" refers to any names specified as such after the\ncopyright statement(s).\n\n\"Original Version\" refers to the collection of Font Software components as\ndistributed by the Copyright Holder(s).\n\n\"Modified Version\" refers to any derivative made by adding to, deleting,\nor substituting -- in part or in whole -- any of the components of the\nOriginal Version, by changing formats or by porting the Font Software to a\nnew environment.\n\n\"Author\" refers to any designer, engineer, programmer, technical\nwriter or other person who contributed to the Font Software.\n\nPERMISSION & CONDITIONS\nPermission is hereby granted, free of charge, to any person obtaining\na copy of the Font Software, to use, study, copy, merge, embed, modify,\nredistribute, and sell modified and unmodified copies of the Font\nSoftware, subject to the following conditions:\n\n1) Neither the Font Software nor any of its individual components,\nin Original or Modified Versions, may be sold by itself.\n\n2) Original or Modified Versions of the Font Software may be bundled,\nredistributed and/or sold with any software, provided that each copy\ncontains the above copyright notice and this license. These can be\nincluded either as stand-alone text files, human-readable headers or\nin the appropriate machine-readable metadata fields within text or\nbinary files as long as those fields can be easily viewed by the user.\n\n3) No Modified Version of the Font Software may use the Reserved Font\nName(s) unless explicit written permission is granted by the corresponding\nCopyright Holder. This restriction only applies to the primary font name as\npresented to the users.\n\n4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font\nSoftware shall not be used to promote, endorse or advertise any\nModified Version, except to acknowledge the contribution(s) of the\nCopyright Holder(s) and the Author(s) or with their explicit written\npermission.\n\n5) The Font Software, modified or unmodified, in part or in whole,\nmust be distributed entirely under this license, and must not be\ndistributed under any other license. The requirement for fonts to\nremain under this license does not apply to any document created\nusing the Font Software.\n\nTERMINATION\nThis license becomes null and void if any of the above conditions are\nnot met.\n\nDISCLAIMER\nTHE FONT SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND,\nEXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF\nMERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT\nOF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE\nCOPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,\nINCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL\nDAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING\nFROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM\nOTHER DEALINGS IN THE FONT SOFTWARE.",
+    "licenseUrl": null
+  },
+  {
+    "id": "huninn",
+    "name": "粉圆体",
+    "copyright": "Copyright (c) 2025 The Huninn Project (https://github.com/justfont/Huninn)",
+    "licenseNotice": "Copyright 2025 The Huninn Project Authors (https://github.com/justfont/Huninn.git)\n\nThis Font Software is licensed under the SIL Open Font License, Version 1.1.\nThis license is copied below, and is also available with a FAQ at:\nhttps://openfontlicense.org\n\n\n-----------------------------------------------------------\nSIL OPEN FONT LICENSE Version 1.1 - 26 February 2007\n-----------------------------------------------------------\n\nPREAMBLE\nThe goals of the Open Font License (OFL) are to stimulate worldwide\ndevelopment of collaborative font projects, to support the font creation\nefforts of academic and linguistic communities, and to provide a free and\nopen framework in which fonts may be shared and improved in partnership\nwith others.\n\nThe OFL allows the licensed fonts to be used, studied, modified and\nredistributed freely as long as they are not sold by themselves. The\nfonts, including any derivative works, can be bundled, embedded, \nredistributed and/or sold with any software provided that any reserved\nnames are not used by derivative works. The fonts and derivatives,\nhowever, cannot be released under any other type of license. The\nrequirement for fonts to remain under this license does not apply\nto any document created using the fonts or their derivatives.\n\nDEFINITIONS\n\"Font Software\" refers to the set of files released by the Copyright\nHolder(s) under this license and clearly marked as such. This may\ninclude source files, build scripts and documentation.\n\n\"Reserved Font Name\" refers to any names specified as such after the\ncopyright statement(s).\n\n\"Original Version\" refers to the collection of Font Software components as\ndistributed by the Copyright Holder(s).\n\n\"Modified Version\" refers to any derivative made by adding to, deleting,\nor substituting -- in part or in whole -- any of the components of the\nOriginal Version, by changing formats or by porting the Font Software to a\nnew environment.\n\n\"Author\" refers to any designer, engineer, programmer, technical\nwriter or other person who contributed to the Font Software.\n\nPERMISSION & CONDITIONS\nPermission is hereby granted, free of charge, to any person obtaining\na copy of the Font Software, to use, study, copy, merge, embed, modify,\nredistribute, and sell modified and unmodified copies of the Font\nSoftware, subject to the following conditions:\n\n1) Neither the Font Software nor any of its individual components,\nin Original or Modified Versions, may be sold by itself.\n\n2) Original or Modified Versions of the Font Software may be bundled,\nredistributed and/or sold with any software, provided that each copy\ncontains the above copyright notice and this license. These can be\nincluded either as stand-alone text files, human-readable headers or\nin the appropriate machine-readable metadata fields within text or\nbinary files as long as those fields can be easily viewed by the user.\n\n3) No Modified Version of the Font Software may use the Reserved Font\nName(s) unless explicit written permission is granted by the corresponding\nCopyright Holder. This restriction only applies to the primary font name as\npresented to the users.\n\n4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font\nSoftware shall not be used to promote, endorse or advertise any\nModified Version, except to acknowledge the contribution(s) of the\nCopyright Holder(s) and the Author(s) or with their explicit written\npermission.\n\n5) The Font Software, modified or unmodified, in part or in whole,\nmust be distributed entirely under this license, and must not be\ndistributed under any other license. The requirement for fonts to\nremain under this license does not apply to any document created\nusing the Font Software.\n\nTERMINATION\nThis license becomes null and void if any of the above conditions are\nnot met.\n\nDISCLAIMER\nTHE FONT SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND,\nEXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF\nMERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT\nOF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE\nCOPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,\nINCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL\nDAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING\nFROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM\nOTHER DEALINGS IN THE FONT SOFTWARE.\n",
+    "licenseUrl": null
+  },
+  {
+    "id": "chenyuluoyan",
+    "name": "辰宇落雁体",
+    "copyright": "Copyright (c) 2022, Wang, Li-Yu & Liu, Wei-Chen.",
+    "licenseNotice": "Copyright (c) 2022, Wang, Li-Yu and Liu, Wei-Chen, with Reserved Font Name \"辰宇落雁\" and \"Chenyuluoyan\".\n\nThis Font Software is licensed under the SIL Open Font License, Version 1.1.\nThis license is copied below, and is also available with a FAQ at:\nhttp://scripts.sil.org/OFL\n\n\n-----------------------------------------------------------\nSIL OPEN FONT LICENSE Version 1.1 - 26 February 2007\n-----------------------------------------------------------\n\nPREAMBLE\nThe goals of the Open Font License (OFL) are to stimulate worldwide\ndevelopment of collaborative font projects, to support the font creation\nefforts of academic and linguistic communities, and to provide a free and\nopen framework in which fonts may be shared and improved in partnership\nwith others.\n\nThe OFL allows the licensed fonts to be used, studied, modified and\nredistributed freely as long as they are not sold by themselves. The\nfonts, including any derivative works, can be bundled, embedded, \nredistributed and/or sold with any software provided that any reserved\nnames are not used by derivative works. The fonts and derivatives,\nhowever, cannot be released under any other type of license. The\nrequirement for fonts to remain under this license does not apply\nto any document created using the fonts or their derivatives.\n\nDEFINITIONS\n\"Font Software\" refers to the set of files released by the Copyright\nHolder(s) under this license and clearly marked as such. This may\ninclude source files, build scripts and documentation.\n\n\"Reserved Font Name\" refers to any names specified as such after the\ncopyright statement(s).\n\n\"Original Version\" refers to the collection of Font Software components as\ndistributed by the Copyright Holder(s).\n\n\"Modified Version\" refers to any derivative made by adding to, deleting,\nor substituting -- in part or in whole -- any of the components of the\nOriginal Version, by changing formats or by porting the Font Software to a\nnew environment.\n\n\"Author\" refers to any designer, engineer, programmer, technical\nwriter or other person who contributed to the Font Software.\n\nPERMISSION & CONDITIONS\nPermission is hereby granted, free of charge, to any person obtaining\na copy of the Font Software, to use, study, copy, merge, embed, modify,\nredistribute, and sell modified and unmodified copies of the Font\nSoftware, subject to the following conditions:\n\n1) Neither the Font Software nor any of its individual components,\nin Original or Modified Versions, may be sold by itself.\n\n2) Original or Modified Versions of the Font Software may be bundled,\nredistributed and/or sold with any software, provided that each copy\ncontains the above copyright notice and this license. These can be\nincluded either as stand-alone text files, human-readable headers or\nin the appropriate machine-readable metadata fields within text or\nbinary files as long as those fields can be easily viewed by the user.\n\n3) No Modified Version of the Font Software may use the Reserved Font\nName(s) unless explicit written permission is granted by the corresponding\nCopyright Holder. This restriction only applies to the primary font name as\npresented to the users.\n\n4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font\nSoftware shall not be used to promote, endorse or advertise any\nModified Version, except to acknowledge the contribution(s) of the\nCopyright Holder(s) and the Author(s) or with their explicit written\npermission.\n\n5) The Font Software, modified or unmodified, in part or in whole,\nmust be distributed entirely under this license, and must not be\ndistributed under any other license. The requirement for fonts to\nremain under this license does not apply to any document created\nusing the Font Software.\n\nTERMINATION\nThis license becomes null and void if any of the above conditions are\nnot met.\n\nDISCLAIMER\nTHE FONT SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND,\nEXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF\nMERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT\nOF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE\nCOPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,\nINCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL\nDAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING\nFROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM\nOTHER DEALINGS IN THE FONT SOFTWARE.\n",
+    "licenseUrl": null
+  },
+  {
+    "id": "chill-din",
+    "name": "寒蝉德黑体",
+    "copyright": "© 2025 ChillType, with Reserved Font Name 'ChillDINGothic'.\n© 2014-2021 Adobe (http://www.adobe.com/), with Reserved Font Name 'Source'.",
+    "licenseNotice": null,
+    "licenseUrl": null
+  },
+  {
+    "id": "chill-round",
+    "name": "寒蝉圆体",
+    "copyright": "Copyright 2021 The Zen Maru Gothic Authors (https://github.com/googlefonts/zen-marugothic)",
+    "licenseNotice": null,
+    "licenseUrl": null
+  },
+  {
+    "id": "chill-movable",
+    "name": "寒蝉活字",
+    "copyright": "© 2024 ChillType, with Reserved Font Name 'ChillHuoFangSong'.",
+    "licenseNotice": null,
+    "licenseUrl": null
+  },
+  {
+    "id": "chill-kai",
+    "name": "寒蝉楷体",
+    "copyright": "Copyright (c) 2018-2022 ChillType.",
+    "licenseNotice": null,
+    "licenseUrl": null
+  },
+  {
+    "id": "chill-zhuokai",
+    "name": "寒蝉拙楷",
+    "copyright": "Copyright (c) 2026, Warren2060. Kataoka Yuji {片岡佑之}.",
+    "licenseNotice": null,
+    "licenseUrl": null
+  },
+  {
+    "id": "chill-duanheisong",
+    "name": "寒蝉端黑宋",
+    "copyright": "© 2023 ChillType, with Reserved Font Name 'DuanHei'.\n© 2017-2022 Adobe (http://www.adobe.com/), with Reserved Font Name 'Source'.",
+    "licenseNotice": null,
+    "licenseUrl": null
+  },
+  {
+    "id": "chill-longcang",
+    "name": "寒蝉龙藏楷",
+    "copyright": "Copyright 2018 The LongCang Project Authors (https://github.com/googlefonts/longcang)",
+    "licenseNotice": null,
+    "licenseUrl": null
+  },
+  {
+    "id": "chill-reunion",
+    "name": "寒蝉团圆",
+    "copyright": "Copyright © 2023 ChillType. All rights reserved.",
+    "licenseNotice": null,
+    "licenseUrl": null
+  },
+  {
+    "id": "chill-gsans",
+    "name": "寒蝉G黑",
+    "copyright": "Chill Type (c) 2021. Source Han Sans (c) 2014-2019 Adobe(http://www.adobe.com/). Copyright (c) 2011 by Pablo Impallari. Raleway (c) 2012 The Raleway Authors.",
+    "licenseNotice": null,
+    "licenseUrl": null
+  },
+  {
+    "id": "chill-roundgothic",
+    "name": "寒蝉圆哥特",
+    "copyright": "© 2014-2021 Adobe, with Reserved Font Name 'Source'.\n© 2023 ChillType, with Reserved Font Name 'ChillRounded'.",
+    "licenseNotice": null,
+    "licenseUrl": null
+  },
+  {
+    "id": "chill-ksans",
+    "name": "寒蝉K黑",
+    "copyright": "Glow Sans (c) 2020 Project Welai. Source Han Sans (c) 2014-2019 Adobe (http://www.adobe.com/). Copyright 2011 The Montserrat Project Authors. ",
+    "licenseNotice": null,
+    "licenseUrl": null
+  },
+  {
+    "id": "chill-tanhei",
+    "name": "寒蝉无机体",
+    "copyright": "© 2023 ChillType, with Reserved Font Name 'Tanhei'.\n© 2014-2021 Adobe (http://www.adobe.com/), with Reserved Font Name 'Source'.",
+    "licenseNotice": null,
+    "licenseUrl": null
+  },
+  {
+    "id": "zhuque",
+    "name": "朱雀仿宋",
+    "copyright": "Copyright 2023 JadeFoci",
+    "licenseNotice": null,
+    "licenseUrl": null
+  },
+  {
+    "id": "xiangcui-wave",
+    "name": "香萃自在舒畅黑",
+    "copyright": null,
+    "licenseNotice": null,
+    "licenseUrl": null
+  },
+  {
+    "id": "cheese-foam",
+    "name": "芝士泡沫乌龙宋",
+    "copyright": "Copyright (c) 2014-2021 Adobe & Google, with Reserved Font Name 'Source'. Copyright (c) Chun Yu Yao (Max), Swei Spring. Copyright (c) 2026 Alexander Tseng (Cheese Foam Oolong Song). Licensed under the SIL Open Font License, Version 1.1.",
+    "licenseNotice": null,
+    "licenseUrl": null
+  },
+  {
+    "id": "chiukong",
+    "name": "潮空哥特",
+    "copyright": "Copyright 2021-2022 ChiuMing-Neko Based on SourceHanSans 2.004, Portions © 2014-2021 Adobe (http://www.adobe.com/), with Reserved Font Name 'Source'.",
+    "licenseNotice": null,
+    "licenseUrl": null
+  },
+  {
+    "id": "shanwei",
+    "name": "汕尾洲黑",
+    "copyright": "Copyright (c) 2026, yzdnn (https://github.com/yzdnn), Copyright (c) Keitarou Hiraki, Font Silo. 1990-2015",
+    "licenseNotice": null,
+    "licenseUrl": null
+  },
+  {
+    "id": "kalosans",
+    "name": "KaloSans",
+    "copyright": "KaloSans is free to use under SIL Open Font License.",
+    "licenseNotice": null,
+    "licenseUrl": null
+  },
+  {
+    "id": "hack-sara",
+    "name": "骇客黑体",
+    "copyright": "Copyright ©2021 by Leroy Xie",
+    "licenseNotice": null,
+    "licenseUrl": null
+  },
+  {
+    "id": "cilantro-code",
+    "name": "香菜码等宽",
+    "copyright": "Copyright 2026 The CilantroCode Project Authors (https://github.com/DraftingDreamer/FontCilantroCode), with Reserved Font Names \"Cilantro Code\" and \"香菜碼\". Portions Copyright 2025 The Iansui Project Authors (https://github.com/ButTaiwan/iansui). Portions Copyright 2024 The Red Hat Project Authors (https://github.com/RedHatOfficial/RedHatFont).",
+    "licenseNotice": "Copyright 2026 The CilantroCode Project Authors (https://github.com/DraftingDreamer/FontCilantroCode), with Reserved Font Names \"Cilantro Code\" and \"香菜碼\".\nCopyright 2025 The Iansui Project Authors (https://github.com/ButTaiwan/iansui), portions of this Font Software.\nCopyright 2024 The Red Hat Project Authors (https://github.com/RedHatOfficial/RedHatFont), portions of this Font Software.\n\nThis Font Software is licensed under the SIL Open Font License, Version 1.1.\nThis license is copied below, and is also available with a FAQ at:\nhttps://openfontlicense.org\n\n\n-----------------------------------------------------------\nSIL OPEN FONT LICENSE Version 1.1 - 26 February 2007\n-----------------------------------------------------------\n\nPREAMBLE\nThe goals of the Open Font License (OFL) are to stimulate worldwide\ndevelopment of collaborative font projects, to support the font creation\nefforts of academic and linguistic communities, and to provide a free and\nopen framework in which fonts may be shared and improved in partnership\nwith others.\n\nThe OFL allows the licensed fonts to be used, studied, modified and\nredistributed freely as long as they are not sold by themselves. The\nfonts, including any derivative works, can be bundled, embedded,\nredistributed and/or sold with any software provided that any reserved\nnames are not used by derivative works. The fonts and derivatives,\nhowever, cannot be released under any other type of license. The\nrequirement for fonts to remain under this license does not apply\nto any document created using the fonts or their derivatives.\n\nDEFINITIONS\n\"Font Software\" refers to the set of files released by the Copyright\nHolder(s) under this license and clearly marked as such. This may\ninclude source files, build scripts and documentation.\n\n\"Reserved Font Name\" refers to any names specified as such after the\ncopyright statement(s).\n\n\"Original Version\" refers to the collection of Font Software components as\ndistributed by the Copyright Holder(s).\n\n\"Modified Version\" refers to any derivative made by adding to, deleting,\nor substituting -- in part or in whole -- any of the components of the\nOriginal Version, by changing formats or by porting the Font Software to a\nnew environment.\n\n\"Author\" refers to any designer, engineer, programmer, technical\nwriter or other person who contributed to the Font Software.\n\nPERMISSION & CONDITIONS\nPermission is hereby granted, free of charge, to any person obtaining\na copy of the Font Software, to use, study, copy, merge, embed, modify,\nredistribute, and sell modified and unmodified copies of the Font\nSoftware, subject to the following conditions:\n\n1) Neither the Font Software nor any of its individual components,\nin Original or Modified Versions, may be sold by itself.\n\n2) Original or Modified Versions of the Font Software may be bundled,\nredistributed and/or sold with any software, provided that each copy\ncontains the above copyright notice and this license. These can be\nincluded either as stand-alone text files, human-readable headers or\nin the appropriate machine-readable metadata fields within text or\nbinary files as long as those fields can be easily viewed by the user.\n\n3) No Modified Version of the Font Software may use the Reserved Font\nName(s) unless explicit written permission is granted by the corresponding\nCopyright Holder. This restriction only applies to the primary font name as\npresented to the users.\n\n4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font\nSoftware shall not be used to promote, endorse or advertise any\nModified Version, except to acknowledge the contribution(s) of the\nCopyright Holder(s) and the Author(s) or with their explicit written\npermission.\n\n5) The Font Software, modified or unmodified, in part or in whole,\nmust be distributed entirely under this license, and must not be\ndistributed under any other license. The requirement for fonts to\nremain under this license does not apply to any document created\nusing the Font Software.\n\nTERMINATION\nThis license becomes null and void if any of the above conditions are\nnot met.\n\nDISCLAIMER\nTHE FONT SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND,\nEXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF\nMERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT\nOF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE\nCOPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,\nINCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL\nDAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING\nFROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM\nOTHER DEALINGS IN THE FONT SOFTWARE.\n",
+    "licenseUrl": null
+  },
+  {
+    "id": "line-seed-tw",
+    "name": "LINE Seed（S2CTW 简转繁版）",
+    "copyright": null,
+    "licenseNotice": null,
+    "licenseUrl": null
+  },
+  {
+    "id": "genyo-min",
+    "name": "源樣明體",
+    "copyright": null,
+    "licenseNotice": null,
+    "licenseUrl": null
+  },
+  {
+    "id": "genyo-gothic",
+    "name": "源樣黑體",
+    "copyright": null,
+    "licenseNotice": null,
+    "licenseUrl": null
+  },
+  {
+    "id": "gensen-rounded",
+    "name": "源泉圓體",
+    "copyright": null,
+    "licenseNotice": null,
+    "licenseUrl": null
+  },
+  {
+    "id": "genwan-min",
+    "name": "源雲明體",
+    "copyright": null,
+    "licenseNotice": null,
+    "licenseUrl": null
+  },
+  {
+    "id": "genki-min",
+    "name": "源起明體",
+    "copyright": null,
+    "licenseNotice": null,
+    "licenseUrl": null
+  },
+  {
+    "id": "genki-gothic",
+    "name": "源起黑體",
+    "copyright": null,
+    "licenseNotice": null,
+    "licenseUrl": null
+  },
+  {
+    "id": "fanwun-ming",
+    "name": "繁媛明朝",
+    "copyright": "Copyright © 2020-2026 Ayaka Mikazuki.",
+    "licenseNotice": null,
+    "licenseUrl": null
+  },
+  {
+    "id": "fanwun-hak",
+    "name": "繁媛黑體",
+    "copyright": "Copyright © 2020-2026 Ayaka Mikazuki.",
+    "licenseNotice": null,
+    "licenseUrl": null
+  },
+  {
+    "id": "taipei-sans",
+    "name": "台北黑體",
+    "copyright": "Taipei Sans TC is a modified font of Source Han Sans.",
+    "licenseNotice": null,
+    "licenseUrl": null
+  },
+  {
+    "id": "inconsolata-taipei",
+    "name": "InconsolataLGC × 台北黑體",
+    "copyright": "Original Roman version created by Raph Levien using his own tools and FontForge. Copyright 2006 Raph Levien. Hellenisation of the Roman font, by Dimosthenis Kaponis, using FontForge. Hellenic glyphs Copyright 2010-2012 Dimosthenis Kaponis. Released under the SIL Open Font License, http://scripts.sil.org/OFL.\n\nCyrillic glyphs added by MihailJP, using FontForge. Cyrillic glyphs Copyright 2012 MihailJP. Released under the SIL Open Font License, http://scripts.sil.org/OFL.\n\nSome glyphs modified by Greg Omelaenko, using FontForge.",
+    "licenseNotice": null,
+    "licenseUrl": null
+  },
+  {
+    "id": "toneoz-wenkai",
+    "name": "ToneOZ 拼音文楷",
+    "copyright": "Copyright 2021 ToneOZ (https://toneoz.com) Copyright 2021 LXGW (https://github.com/lxgw/LxgwWenKai) Copyright 2020 The Klee Project Authors (https://github.com/fontworks-fonts/Klee)",
+    "licenseNotice": null,
+    "licenseUrl": null
+  },
+  {
+    "id": "chiron-hei",
+    "name": "昭源黑體",
+    "copyright": "© 2014-2025 Adobe (http://www.adobe.com/).",
+    "licenseNotice": null,
+    "licenseUrl": null
+  },
+  {
+    "id": "chiron-sung",
+    "name": "昭源宋體",
+    "copyright": "© 2017-2024 Adobe (http://www.adobe.com/).",
+    "licenseNotice": null,
+    "licenseUrl": null
+  },
+  {
+    "id": "chiron-go-round",
+    "name": "昭源環方",
+    "copyright": "© 2014-2025 Adobe (http://www.adobe.com/).",
+    "licenseNotice": null,
+    "licenseUrl": null
+  },
+  {
+    "id": "zev-hei",
+    "name": "宙黑體",
+    "copyright": "© 2014-2025 Adobe (http://www.adobe.com/).",
+    "licenseNotice": null,
+    "licenseUrl": null
+  },
+  {
+    "id": "tauhu-oo",
+    "name": "豆腐烏",
+    "copyright": "Copyright © 2014, 2015, 2018 Adobe Systems Incorporated (http://www.adobe.com/), with Reserved Font Name 'Source'.\nCopyright © 2018, 2019, 2020 TSNG Bing-gan, with Reserved Font Name 'Tauhu'.",
+    "licenseNotice": "This Font Software is licensed under the SIL Open Font License,\nVersion 1.1.\n\nThis license is copied below, and is also available with a FAQ at:\nhttp://scripts.sil.org/OFL\n\n-----------------------------------------------------------\nSIL OPEN FONT LICENSE Version 1.1 - 26 February 2007\n-----------------------------------------------------------\n\nPREAMBLE\nThe goals of the Open Font License (OFL) are to stimulate worldwide\ndevelopment of collaborative font projects, to support the font\ncreation efforts of academic and linguistic communities, and to\nprovide a free and open framework in which fonts may be shared and\nimproved in partnership with others.\n\nThe OFL allows the licensed fonts to be used, studied, modified and\nredistributed freely as long as they are not sold by themselves. The\nfonts, including any derivative works, can be bundled, embedded,\nredistributed and/or sold with any software provided that any reserved\nnames are not used by derivative works. The fonts and derivatives,\nhowever, cannot be released under any other type of license. The\nrequirement for fonts to remain under this license does not apply to\nany document created using the fonts or their derivatives.\n\nDEFINITIONS\n\"Font Software\" refers to the set of files released by the Copyright\nHolder(s) under this license and clearly marked as such. This may\ninclude source files, build scripts and documentation.\n\n\"Reserved Font Name\" refers to any names specified as such after the\ncopyright statement(s).\n\n\"Original Version\" refers to the collection of Font Software\ncomponents as distributed by the Copyright Holder(s).\n\n\"Modified Version\" refers to any derivative made by adding to,\ndeleting, or substituting -- in part or in whole -- any of the\ncomponents of the Original Version, by changing formats or by porting\nthe Font Software to a new environment.\n\n\"Author\" refers to any designer, engineer, programmer, technical\nwriter or other person who contributed to the Font Software.\n\nPERMISSION & CONDITIONS\nPermission is hereby granted, free of charge, to any person obtaining\na copy of the Font Software, to use, study, copy, merge, embed,\nmodify, redistribute, and sell modified and unmodified copies of the\nFont Software, subject to the following conditions:\n\n1) Neither the Font Software nor any of its individual components, in\nOriginal or Modified Versions, may be sold by itself.\n\n2) Original or Modified Versions of the Font Software may be bundled,\nredistributed and/or sold with any software, provided that each copy\ncontains the above copyright notice and this license. These can be\nincluded either as stand-alone text files, human-readable headers or\nin the appropriate machine-readable metadata fields within text or\nbinary files as long as those fields can be easily viewed by the user.\n\n3) No Modified Version of the Font Software may use the Reserved Font\nName(s) unless explicit written permission is granted by the\ncorresponding Copyright Holder. This restriction only applies to the\nprimary font name as presented to the users.\n\n4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font\nSoftware shall not be used to promote, endorse or advertise any\nModified Version, except to acknowledge the contribution(s) of the\nCopyright Holder(s) and the Author(s) or with their explicit written\npermission.\n\n5) The Font Software, modified or unmodified, in part or in whole,\nmust be distributed entirely under this license, and must not be\ndistributed under any other license. The requirement for fonts to\nremain under this license does not apply to any document created using\nthe Font Software.\n\nTERMINATION\nThis license becomes null and void if any of the above conditions are\nnot met.\n\nDISCLAIMER\nTHE FONT SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND,\nEXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF\nMERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT\nOF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE\nCOPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,\nINCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL\nDAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING\nFROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM\nOTHER DEALINGS IN THE FONT SOFTWARE.",
+    "licenseUrl": null
+  },
+  {
+    "id": "wd-xl-lubri",
+    "name": "WD-XL 滑油字",
+    "copyright": "Copyright 2020-2025 The WD-XL Lubrifont Project Authors (https://github.com/NightFurySL2001/WD-XL-font)",
+    "licenseNotice": null,
+    "licenseUrl": null
+  },
+  {
+    "id": "genryu-min",
+    "name": "源流明體",
+    "copyright": null,
+    "licenseNotice": null,
+    "licenseUrl": null
+  },
+  {
+    "id": "genseki-gothic",
+    "name": "源石黑體",
+    "copyright": null,
+    "licenseNotice": null,
+    "licenseUrl": null
+  },
+  {
+    "id": "lxgw-wenkai-tc",
+    "name": "霞鶩文楷",
+    "copyright": "Copyright 2022-2026 LXGW (https://github.com/lxgw/LxgwWenkaiTC)\nCopyright 2020 The Klee Project Authors (https://github.com/fontworks-fonts/Klee)",
+    "licenseNotice": null,
+    "licenseUrl": null
+  },
+  {
+    "id": "sarasa-gothic-tc",
+    "name": "更紗黑體 TC",
+    "copyright": "Copyright (c) 2015-2025, Renzhi Li (aka. Belleve Invis, belleve@typeof.net). Portions Copyright (c) 2016 The Inter Project Authors. Portions Copyright (c) 2014-2021 Adobe Systems Incorporated (http://www.adobe.com/). Portions Copyright (c) 2012 Google Inc.",
+    "licenseNotice": null,
+    "licenseUrl": null
+  },
+  {
+    "id": "evilsung",
+    "name": "邪宋",
+    "copyright": "But Ko, 2022 / This font is modified from Source Han Serif which is made by Adobe Systems Incorporated.",
+    "licenseNotice": null,
+    "licenseUrl": null
+  },
+  {
+    "id": "iming",
+    "name": "一點明體",
+    "copyright": "Copyright © 2003-2024 I.Font Project; Information-technology Promotion Agency, Japan (IPA), 2011-2018. You must accept \"http://ipafont.ipa.go.jp/ipa_font_license_v1.html\" to use this product.",
+    "licenseNotice": null,
+    "licenseUrl": null
+  },
+  {
+    "id": "zevacode",
+    "name": "ZevaCode",
+    "copyright": "© 2021 Microsoft Corporation. All Rights Reserved.",
+    "licenseNotice": null,
+    "licenseUrl": null
+  },
+  {
+    "id": "cactus-serif",
+    "name": "仙人掌明體",
+    "copyright": null,
+    "licenseNotice": null,
+    "licenseUrl": null
+  },
+  {
+    "id": "chocolate-sans",
+    "name": "朱古力黑體",
+    "copyright": "Copyright 2025 The Chocolate Classical Sans Project Authors (https://github.com/MoonlitOwen/ChocolateSans)",
+    "licenseNotice": null,
+    "licenseUrl": null
+  },
+  {
+    "id": "thenkhung",
+    "name": "宇文天穹",
+    "copyright": "Copyright 2025 The UoqMunThenKhung Project Authors (https://github.com/MoonlitOwen/ThenKhung)",
+    "licenseNotice": "# 🌕English\n\nCopyright 2025 The UoqMunThenKhung Project Authors (https://github.com/MoonlitOwen/UoqMunThenKhung)\n\nThis Font Software is licensed under the SIL Open Font License, Version 1.1.\nThis license is copied below, and is also available with a FAQ at:\nhttps://scripts.sil.org/OFL\n\n\n-----------------------------------------------------------\nSIL OPEN FONT LICENSE Version 1.1 - 26 February 2007\n-----------------------------------------------------------\n\n## PREAMBLE\nThe goals of the Open Font License (OFL) are to stimulate worldwide\ndevelopment of collaborative font projects, to support the font creation\nefforts of academic and linguistic communities, and to provide a free and\nopen framework in which fonts may be shared and improved in partnership\nwith others.\n\nThe OFL allows the licensed fonts to be used, studied, modified and\nredistributed freely as long as they are not sold by themselves. The\nfonts, including any derivative works, can be bundled, embedded, \nredistributed and/or sold with any software provided that any reserved\nnames are not used by derivative works. The fonts and derivatives,\nhowever, cannot be released under any other type of license. The\nrequirement for fonts to remain under this license does not apply\nto any document created using the fonts or their derivatives.\n\n## DEFINITIONS\n\"Font Software\" refers to the set of files released by the Copyright\nHolder(s) under this license and clearly marked as such. This may\ninclude source files, build scripts and documentation.\n\n\"Reserved Font Name\" refers to any names specified as such after the\ncopyright statement(s).\n\n\"Original Version\" refers to the collection of Font Software components as\ndistributed by the Copyright Holder(s).\n\n\"Modified Version\" refers to any derivative made by adding to, deleting,\nor substituting -- in part or in whole -- any of the components of the\nOriginal Version, by changing formats or by porting the Font Software to a\nnew environment.\n\n\"Author\" refers to any designer, engineer, programmer, technical\nwriter or other person who contributed to the Font Software.\n\n## PERMISSION & CONDITIONS\nPermission is hereby granted, free of charge, to any person obtaining\na copy of the Font Software, to use, study, copy, merge, embed, modify,\nredistribute, and sell modified and unmodified copies of the Font\nSoftware, subject to the following conditions:\n\n1) Neither the Font Software nor any of its individual components,\nin Original or Modified Versions, may be sold by itself.\n\n2) Original or Modified Versions of the Font Software may be bundled,\nredistributed and/or sold with any software, provided that each copy\ncontains the above copyright notice and this license. These can be\nincluded either as stand-alone text files, human-readable headers or\nin the appropriate machine-readable metadata fields within text or\nbinary files as long as those fields can be easily viewed by the user.\n\n3) No Modified Version of the Font Software may use the Reserved Font\nName(s) unless explicit written permission is granted by the corresponding\nCopyright Holder. This restriction only applies to the primary font name as\npresented to the users.\n\n4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font\nSoftware shall not be used to promote, endorse or advertise any\nModified Version, except to acknowledge the contribution(s) of the\nCopyright Holder(s) and the Author(s) or with their explicit written\npermission.\n\n5) The Font Software, modified or unmodified, in part or in whole,\nmust be distributed entirely under this license, and must not be\ndistributed under any other license. The requirement for fonts to\nremain under this license does not apply to any document created\nusing the Font Software.\n\n## TERMINATION\nThis license becomes null and void if any of the above conditions are\nnot met.\n\n## DISCLAIMER\nTHE FONT SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND,\nEXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF\nMERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT\nOF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE\nCOPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,\nINCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL\nDAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING\nFROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM\nOTHER DEALINGS IN THE FONT SOFTWARE.\n\n# 🌕中文翻譯\n\n★注意：本中文翻譯並非由官方提供，僅供參考，一切以英文版本爲準。★\n\n版權由解星計劃作者 (https://github.com/Font-Kai/Kaisei) 自 2020 年起、由宇文滿月 (https://github.com/MoonlitOwen/) 自 2023 年起持有。\n\n本「字型軟件」以《SIL開源字型授權》1.1版授權釋出。\n本授權條款全文副本如下，亦隨《常見問題目錄》（FAQ）於以下網址提供：\nhttps://scripts.sil.org/OFL\n\n-----------------------------------------------------------\nSIL開源字型授權　1.1 版 – 2007 年 2 月 26 日\n-----------------------------------------------------------\n\n## 序言\n《開源字型授權》（Open Font License，簡稱《OFL》）旨在促進全球字型協作專案的共同開發，支持學術及語言學團體對於字型創作的努力，以及提供一個自由開源的基本框架，讓字型能在彼此合作的關係中分享與改進。\n\nOFL允許以本授權釋出的字型自由地使用、硏究、修改和再分發 (redistributed)，唯不可單獨銷售該釋出字型。該字型，以及它的任何衍生作品 (derivative works)，均可以與任何軟件捆綁 (bundled)、嵌入 (embedded)、再分發以及／或一併銷售，前提是衍生作品不得使用任何保留字型名稱 (reserved names)。然而，該釋出字型與其衍生作品不得在任何其他授權條款下發佈。本授權針對釋出字型「必須以同樣授權釋出」的要求規定，並不適用於任何使用該釋出字型或其衍生作品創建的任何文件。\n\n## 定義\n「字型軟件」(font software) 指由版權持有者（或著作權人，copyright holder(s)）通過本授權下發佈釋出並明確標示本授權的一系列檔案。「字型軟件」可以包括原始檔案 (source files)、構建腳本 (build script) 以及說明文件。\n\n「保留字型名稱」(Reserved Font Name) 指在版權聲明後、被特別標示指定爲「保留字型名稱」的任何名稱。\n\n「原始版本（或簡稱原版）」(original version) 指版權持有者所分發的「字型軟件」構件的集合。\n\n「修改版本」(modified version) 指通過增加、刪除或替換 (substituting)「原始版本」中的任何部分或整體構件、轉換字型軟件的格式或移植字型軟件到新的運作環境中而產生的衍生版本。\n\n「作者」(author) 指任何爲「字型軟件」做出貢獻的設計師、工程師、程式師、技術文件工程師 (technical writer) 或其他人員。\n\n## 許可與條件\n特此允許任何取得本「字型軟件」副本的個人，授予免費使用、硏究、複製、合併、嵌入、修改、再分發以及銷售已修改和未修改的字型副本，但需要遵守下列所規定的條件：\n\n1) 無論是「原始版本」或「修改版本」，「字型軟件」或其中任何獨立的個別構件，均不能被單獨銷售。\n\n2) 「字型軟件」的「原始版本」或「修改版本」可以與任何軟件捆綁 (bundled)、再分發以及／或一併銷售，前提爲每份軟件副本都必須包含本授權條款上述的版權聲明 (copyright notice) 以及本授權條款全文。這些版權聲明與條款全文可以被放置在獨立純文字檔、人類可讀資訊頭、或文本／二進位檔案內適當的、用戶易於查閱流覽的機器可讀中繼資料欄位。\n\n3) 「修改版本」的「字型軟件」不得使用「保留字型名稱」，除非相應名稱的版權持有者授予明確的書面同意許可。此項限制僅適用於對使用者顯示的主要字型名稱 (primary font name)。\n\n4) 版權持有者或「字型軟件」的作者姓名不應被使用來推廣、認可或宣傳任何「修改版本」的字型。不過，在取得版權持有者的書面同意許可前提下，可以進行以上行爲；向版權持有者和作者的貢獻致謝而標示姓名也不在此列。\n\n5) 無論是已修改或未修改的「字型軟件」，其部分或整體，均必須完全通過本授權下分發，不得在任何其他授權條款下分發。本授權針對釋出字型「必須以同樣授權釋出」的要求規定，並不適用於任何使用該「字型軟件」創建的任何文件。\n\n## 終止授權\n\n假如上述任一條款無法被遵守，本授權條款將會失效 (null and void)。\n\n## 免責聲明\n「字型軟件」是以「按原樣」(AS IS) 提供，並不作任何明示或暗示的保證，包括但不限於對「字型軟件」的適銷性 (MERCHANTABILITY)、特定用途適用性和不侵犯版權、專利權、商標權或任何其他權利的保證。此外，在任何情況下，無論是在合同訴訟、侵權訴訟或其他訴訟中，版權持有者均不承擔因使用或無法使用「字型軟件」，或出於任何使用「字型軟件」的任何行爲而產生、引起的任何索賠、損害或可歸責事由而來的任何責任，包括任何一般、特殊、間接、附帶或結果性損害。\n",
+    "licenseUrl": null
+  },
+  {
+    "id": "kurewa",
+    "name": "苦累蛙圓體",
+    "copyright": "Copyright 2021 The Kurewa Project Authors (https://github.com/max32002/kurewa-gothic)",
+    "licenseNotice": null,
+    "licenseUrl": null
+  },
+  {
+    "id": "swei-fan-serif",
+    "name": "獅尾繁中宋體",
+    "copyright": "Chun Yu Yao",
+    "licenseNotice": null,
+    "licenseUrl": null
+  },
+  {
+    "id": "fanmei",
+    "name": "繁梅黑體",
+    "copyright": "Copyright 2026 The Fanmei Project Authors. Original Copyright 2017 HORAI Wataru. Licensed under the Zero-Clause BSD License.",
+    "licenseNotice": "Copyright 2026 The Fanmei Project Authors; Original Copyright 2015-2017 HORAI Wataru.\n\nPermission to use, copy, modify, and/or distribute this software for\nany purpose with or without fee is hereby granted.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\" AND THE AUTHOR DISCLAIMS ALL\nWARRANTIES WITH REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES\nOF MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE\nFOR ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY\nDAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN\nAN ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT\nOF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.\n",
+    "licenseUrl": null
+  },
+  {
+    "id": "chuanqu",
+    "name": "傳趣",
+    "copyright": "Copyright 2025-2026 SteveYuu(https://github.com/Steve-Yuu/Chuanqu) , Copyright 2020 The Stick Project Authors (https://github.com/fontworks-fonts/Stick/)",
+    "licenseNotice": null,
+    "licenseUrl": null
+  },
+  {
+    "id": "ibm-plex-sans-tc",
+    "name": "IBM Plex Sans TC",
+    "copyright": "Copyright 2018 IBM Corp. All rights reserved.",
+    "licenseNotice": null,
+    "licenseUrl": null
+  },
+  {
+    "id": "yshi-pen",
+    "name": "Y式筆書",
+    "copyright": "Copyright 2022-2025 Steve Yuu (https://github.com/Steve-Yuu/YshiPen-Shuti）Copyright 2020 The Klee Project Authors (https://github.com/fontworks-fonts/Klee)",
+    "licenseNotice": null,
+    "licenseUrl": null
+  },
+  {
+    "id": "lxgw-zhenkai",
+    "name": "霞鹜臻楷",
+    "copyright": "Copyright 2022, 2024-2026 LXGW (https://github.com/lxgw/LxgwZhenKai)\r\nCopyright 2020 The Klee Project Authors (https://github.com/fontworks-fonts/Klee)",
+    "licenseNotice": null,
+    "licenseUrl": null
+  },
+  {
+    "id": "alibaba-puhuiti",
+    "name": "阿里巴巴普惠体",
+    "copyright": "Copyright © 2019 Alibaba (China) Co., Ltd. All rights reserved.",
+    "licenseNotice": null,
+    "licenseUrl": null
+  },
+  {
+    "id": "oppo-sans",
+    "name": "OPPO Sans",
+    "copyright": "copyright （c） 2019 by OPPO. All rights reserved.",
+    "licenseNotice": null,
+    "licenseUrl": null
+  },
+  {
+    "id": "zcool-wenyi",
+    "name": "站酷文艺体",
+    "copyright": "(c) 2018 zcool.All rights reserved.",
+    "licenseNotice": null,
+    "licenseUrl": null
+  },
+  {
+    "id": "youshe-biaotihei",
+    "name": "优设标题黑",
+    "copyright": "(c) Copyright YouShe Network Technology Co., Ltd",
+    "licenseNotice": null,
+    "licenseUrl": null
+  },
+  {
+    "id": "pangmen-biaoti",
+    "name": "庞门正道标题体",
+    "copyright": "(c) PangMenZhengDao HuXiaoBo 2016",
+    "licenseNotice": null,
+    "licenseUrl": null
+  },
+  {
+    "id": "ruizi-zhenyan",
+    "name": "锐字真言体",
+    "copyright": "For commercial use, please purchase permission to authorize business:\r\nwww.reeji.com QQ:2770851733 Mail:Reejifont@outlook.com\r\n© 2018 by Shang hai Rui Xian Creative Design Co., Ltd..All rights reserved.",
+    "licenseNotice": null,
+    "licenseUrl": null
+  },
+  {
+    "id": "yangrendong-zhushi",
+    "name": "杨任东竹石体",
+    "copyright": "任东视觉.2017",
+    "licenseNotice": null,
+    "licenseUrl": null
+  },
+  {
+    "id": "jiangxi-zhuokai",
+    "name": "江西拙楷",
+    "copyright": null,
+    "licenseNotice": null,
+    "licenseUrl": null
+  },
+  {
+    "id": "yanshi-qiuhongkai",
+    "name": "演示秋鸿楷",
+    "copyright": "Copyright © 2020 by Keynoteart. All rights reserved.",
+    "licenseNotice": null,
+    "licenseUrl": null
+  },
+  {
+    "id": "yanshi-xiaxingkai",
+    "name": "演示夏行楷",
+    "copyright": "Copyright © 2020 by keynoteart. All rights reserved.",
+    "licenseNotice": null,
+    "licenseUrl": null
+  },
+  {
+    "id": "muyao-ruanbi",
+    "name": "沐瑶软笔手写体",
+    "copyright": "Copyright(c) FlexiFont Co.,Ltd.2016",
+    "licenseNotice": null,
+    "licenseUrl": null
+  },
+  {
+    "id": "yanshi-foxi",
+    "name": "演示佛系体",
+    "copyright": "Copyright © 2019 by keynoteart x QiuYePPT. All rights reserved.",
+    "licenseNotice": null,
+    "licenseUrl": null
+  },
+  {
+    "id": "yanshi-youran",
+    "name": "演示悠然体",
+    "copyright": "Copyright © 2020 by keynoteart. All rights reserved.",
+    "licenseNotice": null,
+    "licenseUrl": null
+  },
+  {
+    "id": "lxgw-neoxihei",
+    "name": "霞鹜新晰黑",
+    "copyright": "Copyright(c) 2021-2026 LXGW; Information-technology Promotion Agency, Japan (IPA), 2003-2019. You must accept \"https://opensource.org/licenses/IPA/\" to use this product.",
+    "licenseNotice": null,
+    "licenseUrl": null
+  },
+  {
+    "id": "lxgw-neozhisong",
+    "name": "霞鹜新致宋",
+    "copyright": "Copyright(c) 2023-2026 LXGW; Information-technology Promotion Agency, Japan (IPA), 2003-2019. You must accept \"https://opensource.org/licenses/IPA/\" to use this product.",
+    "licenseNotice": null,
+    "licenseUrl": null
+  },
+  {
+    "id": "chill-duansans",
+    "name": "寒蝉宽窄黑",
+    "copyright": "© 2023 ChillType, with Reserved Font Name 'Duan'.\n© 2014-2021 Adobe (http://www.adobe.com/), with Reserved Font Name 'Source'.",
+    "licenseNotice": null,
+    "licenseUrl": null
+  },
+  {
+    "id": "chill-jinshusong",
+    "name": "寒蝉锦书宋",
+    "copyright": "© 2023 ChillType, with Reserved Font Name 'Jinshu'.\n© 2017-2022 Adobe (http://www.adobe.com/), with Reserved Font Name 'Source'.",
+    "licenseNotice": null,
+    "licenseUrl": null
+  },
+  {
+    "id": "chill-yunmo",
+    "name": "寒蝉云墨黑",
+    "copyright": "© 2014-2021 Adobe, with Reserved Font Name 'Source'.\n© 2023 ChillType, with Reserved Font Name 'ChillYunmoGothic'.",
+    "licenseNotice": null,
+    "licenseUrl": null
+  },
+  {
+    "id": "dyslexic-kai",
+    "name": "閱善楷等寬",
+    "copyright": "Copyright 2026 The DyslexicKai Project Authors, with Reserved Font Name \"DyslexicKai\". CJK glyphs from Huiwen-ZhengKai, Copyright 2022 TerryWang (open source, free for commercial use; selling the font for profit is prohibited). Latin and symbol glyphs from OpenDyslexic 3, Copyright Abelardo Gonzalez, licensed under the SIL Open Font License 1.1. ",
+    "licenseNotice": null,
+    "licenseUrl": null
+  },
+  {
+    "id": "douyin-meihua",
+    "name": "抖音美好体",
+    "copyright": "copyright(c)2023 by Beijing Zitiao Network Technology Co., Ltd. All rights reserved.",
+    "licenseNotice": null,
+    "licenseUrl": null
+  },
+  {
+    "id": "xuan-zong-ti",
+    "name": "玄宗体",
+    "copyright": "© 2017-2024 Adobe (http://www.adobe.com/), with Reserved Font Name 'Source'.",
+    "licenseNotice": null,
+    "licenseUrl": null
+  },
+  {
+    "id": "masa-font",
+    "name": "正风毛笔 MasaFont",
+    "copyright": "KouzanAoyagi",
+    "licenseNotice": null,
+    "licenseUrl": null
+  },
+  {
+    "id": "hong-lei-xing-shu",
+    "name": "鸿雷行书简体",
+    "copyright": "Copyright © 2022 by 林鸿雷. All rights reserved.",
+    "licenseNotice": null,
+    "licenseUrl": null
+  },
+  {
+    "id": "yun-feng-jing-long",
+    "name": "云峰静龙行书",
+    "copyright": "云峰字库",
+    "licenseNotice": null,
+    "licenseUrl": null
+  },
+  {
+    "id": "yoz-font-k",
+    "name": "YOzFont毛笔行书",
+    "copyright": "Copyright (C) Y.OzVox",
+    "licenseNotice": null,
+    "licenseUrl": null
+  },
+  {
+    "id": "mikhail-cai-caoshu",
+    "name": "草书·mikhailcai",
+    "copyright": "Author: mikhailcai, lxgw",
+    "licenseNotice": null,
+    "licenseUrl": null
+  },
+  {
+    "id": "san-ji-xing-kai",
+    "name": "三极行楷简体",
+    "copyright": null,
+    "licenseNotice": null,
+    "licenseUrl": null
+  },
+  {
+    "id": "kouzan-mao-bi-cao-shu",
+    "name": "衡山毛笔草书",
+    "copyright": "KouzanAoyagi",
+    "licenseNotice": null,
+    "licenseUrl": null
+  }
+]

@@ -38,6 +38,6 @@
 
 字体版权归原作者，来源与授权记录见[字体清单](CATALOG.md)。授权尚未逐款复核，使用请以原项目许可为准。
 
-本仓库原创脚本与说明采用 [MIT License](LICENSE)。
+网页字体为样张子集，完整字库请到来源获取。[字体许可记录](assets/fonts/licenses/README.md)随样张保留；原创脚本与说明采用 [MIT License](LICENSE)。
 
 整理：木渡川
