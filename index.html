@@ -66,18 +66,18 @@ p,h3{margin:0}h3{font-weight:inherit;font-size:inherit}
 .font-load-status button{display:block;text-decoration:underline;padding:8px 0}.font-card{position:relative}.document-actions a{display:inline-flex;align-items:center;gap:5px;min-height:32px;font-size:12px;color:#666660}.document-actions svg{width:14px;height:14px}.document-actions button{padding:0}.font-card-heading .card-link{overflow:visible}.font-specimen:focus-visible{outline-offset:-4px}
 @media(max-width:1150px){.layout{grid-template-columns:180px minmax(0,1fr)}main{padding:22px}.gallery{--columns:2}}
 @media(max-width:680px){.layout{display:block}main{padding:12px 16px 32px}.gallery{--columns:1}.reference-site h3{font-size:17px}.reference-site p{font-size:14px}.document-actions button,.document-actions a{min-height:44px}}
-/* Warm paper colors are derived from the workbench's neutral surfaces. */
-@font-face{font-family:UoqMunThenKhung;src:url('assets/ui/thenkhung-heading.woff2') format('woff2');font-style:normal;font-weight:400;font-display:swap}
+/* Pure white surfaces with neutral text and borders. */
+@font-face{font-family:SweiFanSerifCJKjp;src:url('assets/ui/swei-heading.woff2') format('woff2');font-style:normal;font-weight:400;font-display:swap}
 @font-face{font-family:'WenJin Mincho Plane 0';src:url('assets/ui/wenjin-interface.woff2') format('woff2');font-style:normal;font-weight:400;font-display:swap}
-:root{--ink:#302a23;--muted:#81766a;--paper:#f7f3eb;--line:#e4dacb;--surface:#fffdf8}
+:root{--ink:#111111;--muted:#747474;--paper:#ffffff;--line:#e5e5e5;--surface:#ffffff}
 body{font-family:'WenJin Mincho Plane 0',serif}
-.heading{display:block;font-family:UoqMunThenKhung,serif;font-size:28px;font-weight:400;font-synthesis:none;letter-spacing:.1em;line-height:1.5}
+.heading{display:block;font-family:SweiFanSerifCJKjp,serif;font-size:28px;font-weight:400;font-synthesis:none;letter-spacing:.1em;line-height:1.5}
 .intro{font-family:'WenJin Mincho Plane 0',serif;font-size:12px;letter-spacing:.07em;margin-top:8px}
 .card,.reference-site,.card-link,.search,.filters button,.skip{background:var(--surface)}
-.search,.filters button{border-color:var(--line)}.categories button:hover{background:#eee6da}.categories button[aria-pressed=true],.filters button[aria-pressed=true],.toast{background:#493d31;color:var(--surface)}
+.search,.filters button{border-color:var(--line)}.categories button:hover{background:#f5f5f5}.categories button[aria-pressed=true],.filters button[aria-pressed=true],.toast{background:#222222;color:var(--surface)}
 .reference-site p,.font-description,.font-card-meta,.font-card-heading>span,.document-actions button,.document-actions a{color:var(--muted)}
 .font-card .font-poster-title,.font-card .font-poster-subtitle,.font-card .font-specimen-english{color:var(--ink)}
-.filters .reset{background:transparent}.card:hover{border-color:#b8a994}.font-status{font-family:'WenJin Mincho Plane 0',serif}
+.filters .reset{background:transparent}.card:hover{border-color:#999999}.font-status{font-family:'WenJin Mincho Plane 0',serif}
 @media(max-width:700px){.intro{display:block}.heading{font-size:28px}}
 </style>
 </head>
@@ -94,7 +94,7 @@ body{font-family:'WenJin Mincho Plane 0',serif}
 <div class="filters" role="group" aria-label="字体标签筛选"><span>筛选</span><button type="button" data-tag="正文" aria-pressed="false">正文</button><button type="button" data-tag="标题" aria-pressed="false">标题</button><button type="button" data-tag="海报" aria-pressed="false">海报</button><button type="button" data-tag="简体" aria-pressed="false">简体样张</button><button type="button" data-tag="繁体" aria-pressed="false">繁体样张</button><button type="button" data-tag="拼音" aria-pressed="false">拼音</button><button type="button" id="reset" class="reset" hidden>清除筛选</button></div>
 <div class="gallery" aria-label="字体瀑布流"></div><div class="empty" hidden><p>没有找到匹配的字体</p><button type="button" id="empty-reset">清除筛选</button></div>
 <noscript>请启用 JavaScript 进行筛选，或访问 <a href="https://github.com/tanglele110-hash/awesome-Fonts-skill/blob/main/CATALOG.md">字体清单</a>。</noscript>
-<footer class="footer"><a href="https://x.com/tanglele0318" target="_blank" rel="noopener noreferrer">整理：木渡川@tanglele0318</a> · 字体版权归原作者，授权以来源项目为准。<a href="https://github.com/tanglele110-hash/awesome-Fonts-skill/blob/main/CATALOG.md" target="_blank" rel="noopener noreferrer">查看来源与授权记录</a></footer>
+<footer class="footer">字体版权归原作者，授权以来源项目为准。<a href="https://github.com/tanglele110-hash/awesome-Fonts-skill/blob/main/CATALOG.md" target="_blank" rel="noopener noreferrer">查看来源与授权记录</a></footer>
 </main></div><div class="toast" role="status" hidden></div>
 <script>
 'use strict';
