@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "title": "awesome-Fonts-skill",
   "fonts": [
     {
@@ -17,11 +17,14 @@
       "source": {
         "url": "https://github.com/LingDong-/qiji-font",
         "kind": "project",
-        "status": "unverified"
+        "status": "verified"
       },
       "license": {
-        "recordedLabel": "SIL OFL 1.1",
-        "status": "unverified"
+        "recordedLabel": "OFL-1.1",
+        "status": "verified",
+        "checkedAt": "2026-09-29",
+        "evidence": "https://github.com/LingDong-/qiji-font/blob/HEAD/LICENSE",
+        "file": "assets/fonts/licenses/upstream/qiji.txt"
       }
     },
     {
@@ -40,11 +43,14 @@
       "source": {
         "url": "https://github.com/Miiiller/Xiangcui-Kesong",
         "kind": "project",
-        "status": "unverified"
+        "status": "verified"
       },
       "license": {
-        "recordedLabel": "SIL OFL 1.1",
-        "status": "unverified"
+        "recordedLabel": "OFL-1.1",
+        "status": "verified",
+        "checkedAt": "2026-09-29",
+        "evidence": "https://github.com/Miiiller/Xiangcui-Kesong/blob/HEAD/License",
+        "file": "assets/fonts/licenses/upstream/xiangcui.txt"
       }
     },
     {
@@ -62,11 +68,14 @@
       "source": {
         "url": "https://github.com/GuiWonder/Shanggu",
         "kind": "project",
-        "status": "unverified"
+        "status": "verified"
       },
       "license": {
-        "recordedLabel": "SIL OFL 1.1",
-        "status": "unverified"
+        "recordedLabel": "OFL-1.1",
+        "status": "verified",
+        "checkedAt": "2026-09-29",
+        "evidence": "https://github.com/GuiWonder/Shanggu/blob/HEAD/LICENSE.txt",
+        "file": "assets/fonts/licenses/upstream/shanggu.txt"
       }
     },
     {
@@ -84,11 +93,14 @@
       "source": {
         "url": "https://github.com/lxgw/LxgwWenkaiGB",
         "kind": "project",
-        "status": "unverified"
+        "status": "verified"
       },
       "license": {
-        "recordedLabel": "SIL OFL 1.1",
-        "status": "unverified"
+        "recordedLabel": "OFL-1.1",
+        "status": "verified",
+        "checkedAt": "2026-09-29",
+        "evidence": "https://github.com/lxgw/LxgwWenkaiGB/blob/HEAD/OFL.txt",
+        "file": "assets/fonts/licenses/upstream/wenkai.txt"
       }
     },
     {
@@ -106,11 +118,14 @@
       "source": {
         "url": "https://github.com/takushun-wu/WenJinMincho",
         "kind": "project",
-        "status": "unverified"
+        "status": "verified"
       },
       "license": {
-        "recordedLabel": "SIL OFL 1.1",
-        "status": "unverified"
+        "recordedLabel": "OFL-1.1",
+        "status": "verified",
+        "checkedAt": "2026-09-29",
+        "evidence": "https://github.com/takushun-wu/WenJinMincho/blob/HEAD/LICENSE.md",
+        "file": "assets/fonts/licenses/upstream/wenjin.txt"
       }
     },
     {
@@ -128,11 +143,14 @@
       "source": {
         "url": "https://github.com/Tsao-Tung/Chienchia",
         "kind": "project",
-        "status": "unverified"
+        "status": "verified"
       },
       "license": {
-        "recordedLabel": "SIL OFL 1.1",
-        "status": "unverified"
+        "recordedLabel": "OFL-1.1",
+        "status": "verified",
+        "checkedAt": "2026-09-29",
+        "evidence": "https://github.com/Tsao-Tung/Chienchia/blob/HEAD/OFL.txt",
+        "file": "assets/fonts/licenses/upstream/chienchia.txt"
       }
     },
     {
@@ -150,11 +168,14 @@
       "source": {
         "url": "https://github.com/lxgw/975Yuan",
         "kind": "project",
-        "status": "unverified"
+        "status": "verified"
       },
       "license": {
-        "recordedLabel": "SIL OFL 1.1",
-        "status": "unverified"
+        "recordedLabel": "OFL-1.1",
+        "status": "verified",
+        "checkedAt": "2026-09-29",
+        "evidence": "https://github.com/lxgw/975Yuan/blob/HEAD/OFL.txt",
+        "file": "assets/fonts/licenses/upstream/yuan975.txt"
       }
     },
     {
@@ -173,11 +194,14 @@
       "source": {
         "url": "https://github.com/Des-Magmeta/ChildFunSans",
         "kind": "project",
-        "status": "unverified"
+        "status": "verified"
       },
       "license": {
-        "recordedLabel": "SIL OFL 1.1",
-        "status": "unverified"
+        "recordedLabel": "OFL-1.1",
+        "status": "verified",
+        "checkedAt": "2026-09-29",
+        "evidence": "https://github.com/Des-Magmeta/ChildFunSans/blob/HEAD/OFL.txt",
+        "file": "assets/fonts/licenses/upstream/childfun.txt"
       }
     },
     {
@@ -196,11 +220,14 @@
       "source": {
         "url": "https://github.com/atelier-anchor/smiley-sans",
         "kind": "project",
-        "status": "unverified"
+        "status": "verified"
       },
       "license": {
-        "recordedLabel": "SIL OFL 1.1",
-        "status": "unverified"
+        "recordedLabel": "OFL-1.1",
+        "status": "verified",
+        "checkedAt": "2026-09-29",
+        "evidence": "https://github.com/atelier-anchor/smiley-sans/blob/HEAD/LICENSE",
+        "file": "assets/fonts/licenses/upstream/smiley.txt"
       }
     },
     {
@@ -218,11 +245,14 @@
       "source": {
         "url": "https://github.com/lxgw/LxgwWenKai",
         "kind": "project",
-        "status": "unverified"
+        "status": "verified"
       },
       "license": {
         "recordedLabel": "OFL-1.1",
-        "status": "unverified"
+        "status": "verified",
+        "checkedAt": "2026-09-29",
+        "evidence": "https://github.com/lxgw/LxgwWenKai/blob/HEAD/OFL.txt",
+        "file": "assets/fonts/licenses/upstream/lxgw-wenkai.txt"
       }
     },
     {
@@ -240,11 +270,14 @@
       "source": {
         "url": "https://github.com/adobe-fonts/source-han-sans",
         "kind": "project",
-        "status": "unverified"
+        "status": "verified"
       },
       "license": {
         "recordedLabel": "OFL-1.1",
-        "status": "unverified"
+        "status": "verified",
+        "checkedAt": "2026-09-29",
+        "evidence": "https://github.com/adobe-fonts/source-han-sans/blob/HEAD/LICENSE.txt",
+        "file": "assets/fonts/licenses/upstream/source-han-sans.txt"
       }
     },
     {
@@ -262,11 +295,14 @@
       "source": {
         "url": "https://github.com/adobe-fonts/source-han-serif",
         "kind": "project",
-        "status": "unverified"
+        "status": "verified"
       },
       "license": {
         "recordedLabel": "OFL-1.1",
-        "status": "unverified"
+        "status": "verified",
+        "checkedAt": "2026-09-29",
+        "evidence": "https://github.com/adobe-fonts/source-han-serif/blob/HEAD/LICENSE.txt",
+        "file": "assets/fonts/licenses/upstream/source-han-serif.txt"
       }
     },
     {
@@ -284,12 +320,15 @@
       "latinSampleSupported": true,
       "source": {
         "url": "https://github.com/google/fonts",
-        "kind": "collection",
-        "status": "unverified"
+        "kind": "project",
+        "status": "verified"
       },
       "license": {
         "recordedLabel": "OFL-1.1",
-        "status": "unverified"
+        "status": "verified",
+        "checkedAt": "2026-09-29",
+        "evidence": "https://github.com/google/fonts/blob/main/ofl/zcoolkuaile/OFL.txt",
+        "file": "assets/fonts/licenses/upstream/zcool-kuaile.txt"
       }
     },
     {
@@ -307,12 +346,15 @@
       "latinSampleSupported": true,
       "source": {
         "url": "https://github.com/google/fonts",
-        "kind": "collection",
-        "status": "unverified"
+        "kind": "project",
+        "status": "verified"
       },
       "license": {
         "recordedLabel": "OFL-1.1",
-        "status": "unverified"
+        "status": "verified",
+        "checkedAt": "2026-09-29",
+        "evidence": "https://github.com/google/fonts/blob/main/ofl/zcoolqingkehuangyou/OFL.txt",
+        "file": "assets/fonts/licenses/upstream/zcool-qingke-huangyou.txt"
       }
     },
     {
@@ -329,12 +371,15 @@
       "latinSampleSupported": true,
       "source": {
         "url": "https://github.com/google/fonts",
-        "kind": "collection",
-        "status": "unverified"
+        "kind": "project",
+        "status": "verified"
       },
       "license": {
         "recordedLabel": "OFL-1.1",
-        "status": "unverified"
+        "status": "verified",
+        "checkedAt": "2026-09-29",
+        "evidence": "https://github.com/google/fonts/blob/main/ofl/zcoolxiaowei/OFL.txt",
+        "file": "assets/fonts/licenses/upstream/zcool-xiaowei.txt"
       }
     },
     {
@@ -351,12 +396,15 @@
       "latinSampleSupported": true,
       "source": {
         "url": "https://github.com/google/fonts",
-        "kind": "collection",
-        "status": "unverified"
+        "kind": "project",
+        "status": "verified"
       },
       "license": {
         "recordedLabel": "OFL-1.1",
-        "status": "unverified"
+        "status": "verified",
+        "checkedAt": "2026-09-29",
+        "evidence": "https://github.com/google/fonts/blob/main/ofl/mashanzheng/OFL.txt",
+        "file": "assets/fonts/licenses/upstream/ma-shan-zheng.txt"
       }
     },
     {
@@ -375,11 +423,14 @@
       "source": {
         "url": "https://github.com/Buernia/Tiejili",
         "kind": "project",
-        "status": "unverified"
+        "status": "verified"
       },
       "license": {
         "recordedLabel": "OFL-1.1",
-        "status": "unverified"
+        "status": "verified",
+        "checkedAt": "2026-09-29",
+        "evidence": "https://github.com/Buernia/Tiejili/blob/HEAD/LICENSE",
+        "file": "assets/fonts/licenses/upstream/tiejili.txt"
       }
     },
     {
@@ -397,11 +448,14 @@
       "source": {
         "url": "https://github.com/subframe7536/maple-font",
         "kind": "project",
-        "status": "unverified"
+        "status": "verified"
       },
       "license": {
         "recordedLabel": "OFL-1.1",
-        "status": "unverified"
+        "status": "verified",
+        "checkedAt": "2026-09-29",
+        "evidence": "https://github.com/subframe7536/maple-font/blob/HEAD/OFL.txt",
+        "file": "assets/fonts/licenses/upstream/maple-mono.txt"
       }
     },
     {
@@ -419,11 +473,14 @@
       "source": {
         "url": "https://github.com/lxgw/kose-font",
         "kind": "project",
-        "status": "unverified"
+        "status": "verified"
       },
       "license": {
         "recordedLabel": "OFL-1.1",
-        "status": "unverified"
+        "status": "verified",
+        "checkedAt": "2026-09-29",
+        "evidence": "https://github.com/lxgw/kose-font/blob/HEAD/OFL.txt",
+        "file": "assets/fonts/licenses/upstream/kose-xiaolai.txt"
       }
     },
     {
@@ -441,11 +498,14 @@
       "source": {
         "url": "https://github.com/lxgw/yozai-font",
         "kind": "project",
-        "status": "unverified"
+        "status": "verified"
       },
       "license": {
         "recordedLabel": "OFL-1.1",
-        "status": "unverified"
+        "status": "verified",
+        "checkedAt": "2026-09-29",
+        "evidence": "https://github.com/lxgw/yozai-font/blob/HEAD/OFL.txt",
+        "file": "assets/fonts/licenses/upstream/yozai.txt"
       }
     },
     {
@@ -464,11 +524,14 @@
       "source": {
         "url": "https://github.com/google/fonts/tree/main/ofl/zhimangxing",
         "kind": "project",
-        "status": "unverified"
+        "status": "verified"
       },
       "license": {
         "recordedLabel": "OFL-1.1",
-        "status": "unverified"
+        "status": "verified",
+        "checkedAt": "2026-09-29",
+        "evidence": "https://github.com/google/fonts/blob/main/ofl/zhimangxing/OFL.txt",
+        "file": "assets/fonts/licenses/upstream/zhi-mang-xing.txt"
       }
     },
     {
@@ -484,12 +547,15 @@
       "latinSampleSupported": true,
       "source": {
         "url": "https://github.com/google/fonts",
-        "kind": "collection",
-        "status": "unverified"
+        "kind": "project",
+        "status": "verified"
       },
       "license": {
         "recordedLabel": "OFL-1.1",
-        "status": "unverified"
+        "status": "verified",
+        "checkedAt": "2026-09-29",
+        "evidence": "https://github.com/google/fonts/blob/main/ofl/liujianmaocao/OFL.txt",
+        "file": "assets/fonts/licenses/upstream/liu-jian-mao-cao.txt"
       }
     },
     {
@@ -505,12 +571,15 @@
       "latinSampleSupported": true,
       "source": {
         "url": "https://github.com/google/fonts",
-        "kind": "collection",
-        "status": "unverified"
+        "kind": "project",
+        "status": "verified"
       },
       "license": {
         "recordedLabel": "OFL-1.1",
-        "status": "unverified"
+        "status": "verified",
+        "checkedAt": "2026-09-29",
+        "evidence": "https://github.com/google/fonts/blob/main/ofl/longcang/OFL.txt",
+        "file": "assets/fonts/licenses/upstream/long-cang.txt"
       }
     },
     {
@@ -529,11 +598,14 @@
       "source": {
         "url": "https://github.com/lxgw/LxgwMarkerGothic",
         "kind": "project",
-        "status": "unverified"
+        "status": "verified"
       },
       "license": {
         "recordedLabel": "OFL-1.1",
-        "status": "unverified"
+        "status": "verified",
+        "checkedAt": "2026-09-29",
+        "evidence": "https://github.com/lxgw/LxgwMarkerGothic/blob/HEAD/OFL.txt",
+        "file": "assets/fonts/licenses/upstream/lxgw-marker-gothic.txt"
       }
     },
     {
@@ -551,11 +623,14 @@
       "source": {
         "url": "https://github.com/lxgw/975Hei",
         "kind": "project",
-        "status": "unverified"
+        "status": "verified"
       },
       "license": {
         "recordedLabel": "OFL-1.1",
-        "status": "unverified"
+        "status": "verified",
+        "checkedAt": "2026-09-29",
+        "evidence": "https://github.com/lxgw/975Hei/blob/HEAD/OFL.txt",
+        "file": "assets/fonts/licenses/upstream/975hei.txt"
       }
     },
     {
@@ -574,11 +649,14 @@
       "source": {
         "url": "https://github.com/lxgw/BlackSugarPlumCandy",
         "kind": "project",
-        "status": "unverified"
+        "status": "verified"
       },
       "license": {
         "recordedLabel": "OFL-1.1",
-        "status": "unverified"
+        "status": "verified",
+        "checkedAt": "2026-09-29",
+        "evidence": "https://github.com/lxgw/BlackSugarPlumCandy/blob/HEAD/OFL.txt",
+        "file": "assets/fonts/licenses/upstream/black-sugar-plum-candy.txt"
       }
     },
     {
@@ -596,11 +674,14 @@
       "source": {
         "url": "https://github.com/lxgw/LxgwBright",
         "kind": "project",
-        "status": "unverified"
+        "status": "verified"
       },
       "license": {
         "recordedLabel": "OFL-1.1",
-        "status": "unverified"
+        "status": "verified",
+        "checkedAt": "2026-09-29",
+        "evidence": "https://github.com/lxgw/LxgwBright/blob/HEAD/OFL.txt",
+        "file": "assets/fonts/licenses/upstream/lxgw-bright.txt"
       }
     },
     {
@@ -618,11 +699,14 @@
       "source": {
         "url": "https://github.com/ButTaiwan/iansui",
         "kind": "project",
-        "status": "unverified"
+        "status": "verified"
       },
       "license": {
         "recordedLabel": "OFL-1.1",
-        "status": "unverified"
+        "status": "verified",
+        "checkedAt": "2026-09-29",
+        "evidence": "https://github.com/ButTaiwan/iansui/blob/HEAD/OFL.txt",
+        "file": "assets/fonts/licenses/upstream/iansui.txt"
       }
     },
     {
@@ -640,11 +724,14 @@
       "source": {
         "url": "https://github.com/justfont/Huninn",
         "kind": "project",
-        "status": "unverified"
+        "status": "verified"
       },
       "license": {
         "recordedLabel": "OFL-1.1",
-        "status": "unverified"
+        "status": "verified",
+        "checkedAt": "2026-09-29",
+        "evidence": "https://github.com/justfont/Huninn/blob/HEAD/OFL.txt",
+        "file": "assets/fonts/licenses/upstream/huninn.txt"
       }
     },
     {
@@ -662,11 +749,14 @@
       "source": {
         "url": "https://github.com/Chenyu-otf/chenyuluoyan_thin",
         "kind": "project",
-        "status": "unverified"
+        "status": "verified"
       },
       "license": {
-        "recordedLabel": "作者声明免费商用",
-        "status": "unverified"
+        "recordedLabel": "OFL-1.1",
+        "status": "verified",
+        "checkedAt": "2026-09-29",
+        "evidence": "https://github.com/Chenyu-otf/chenyuluoyan_thin/blob/HEAD/license.txt",
+        "file": "assets/fonts/licenses/upstream/chenyuluoyan.txt"
       }
     },
     {
@@ -684,11 +774,14 @@
       "source": {
         "url": "https://github.com/Warren2060/ChillDIN-ChillDINGothic",
         "kind": "project",
-        "status": "unverified"
+        "status": "verified"
       },
       "license": {
         "recordedLabel": "OFL-1.1",
-        "status": "unverified"
+        "status": "verified",
+        "checkedAt": "2026-09-29",
+        "evidence": "https://github.com/Warren2060/ChillDIN-ChillDINGothic/blob/HEAD/license",
+        "file": "assets/fonts/licenses/upstream/chill-din.txt"
       }
     },
     {
@@ -706,11 +799,14 @@
       "source": {
         "url": "https://github.com/Warren2060/ChillRound",
         "kind": "project",
-        "status": "unverified"
+        "status": "verified"
       },
       "license": {
         "recordedLabel": "OFL-1.1",
-        "status": "unverified"
+        "status": "verified",
+        "checkedAt": "2026-09-29",
+        "evidence": "https://github.com/Warren2060/ChillRound/blob/HEAD/LICENSE",
+        "file": "assets/fonts/licenses/upstream/chill-round.txt"
       }
     },
     {
@@ -729,11 +825,14 @@
       "source": {
         "url": "https://github.com/Warren2060/ChillMovableType",
         "kind": "project",
-        "status": "unverified"
+        "status": "verified"
       },
       "license": {
         "recordedLabel": "OFL-1.1",
-        "status": "unverified"
+        "status": "verified",
+        "checkedAt": "2026-09-29",
+        "evidence": "https://github.com/Warren2060/ChillMovableType/blob/HEAD/LICENSE",
+        "file": "assets/fonts/licenses/upstream/chill-movable.txt"
       }
     },
     {
@@ -751,11 +850,14 @@
       "source": {
         "url": "https://github.com/Warren2060/Chillkai",
         "kind": "project",
-        "status": "unverified"
+        "status": "verified"
       },
       "license": {
         "recordedLabel": "OFL-1.1",
-        "status": "unverified"
+        "status": "verified",
+        "checkedAt": "2026-09-29",
+        "evidence": "https://github.com/Warren2060/Chillkai/blob/HEAD/LICENSE",
+        "file": "assets/fonts/licenses/upstream/chill-kai.txt"
       }
     },
     {
@@ -773,11 +875,14 @@
       "source": {
         "url": "https://github.com/Warren2060/ChillZhuoKai",
         "kind": "project",
-        "status": "unverified"
+        "status": "verified"
       },
       "license": {
         "recordedLabel": "OFL-1.1",
-        "status": "unverified"
+        "status": "verified",
+        "checkedAt": "2026-09-29",
+        "evidence": "https://github.com/Warren2060/ChillZhuoKai/blob/HEAD/LICENSE",
+        "file": "assets/fonts/licenses/upstream/chill-zhuokai.txt"
       }
     },
     {
@@ -795,11 +900,14 @@
       "source": {
         "url": "https://github.com/Warren2060/ChillDuanHeiSong",
         "kind": "project",
-        "status": "unverified"
+        "status": "verified"
       },
       "license": {
         "recordedLabel": "OFL-1.1",
-        "status": "unverified"
+        "status": "verified",
+        "checkedAt": "2026-09-29",
+        "evidence": "https://github.com/Warren2060/ChillDuanHeiSong/blob/HEAD/LICENSE",
+        "file": "assets/fonts/licenses/upstream/chill-duanheisong.txt"
       }
     },
     {
@@ -816,11 +924,14 @@
       "source": {
         "url": "https://github.com/Warren2060/ChillCalligraphy",
         "kind": "project",
-        "status": "unverified"
+        "status": "verified"
       },
       "license": {
         "recordedLabel": "OFL-1.1",
-        "status": "unverified"
+        "status": "verified",
+        "checkedAt": "2026-09-29",
+        "evidence": "https://github.com/Warren2060/ChillCalligraphy/blob/HEAD/LICENSE",
+        "file": "assets/fonts/licenses/upstream/chill-longcang.txt"
       }
     },
     {
@@ -839,11 +950,14 @@
       "source": {
         "url": "https://github.com/Warren2060/ChillReunion",
         "kind": "project",
-        "status": "unverified"
+        "status": "verified"
       },
       "license": {
         "recordedLabel": "OFL-1.1",
-        "status": "unverified"
+        "status": "verified",
+        "checkedAt": "2026-09-29",
+        "evidence": "https://github.com/Warren2060/ChillReunion/blob/HEAD/license",
+        "file": "assets/fonts/licenses/upstream/chill-reunion.txt"
       }
     },
     {
@@ -861,11 +975,14 @@
       "source": {
         "url": "https://github.com/Warren2060/ChillGSans",
         "kind": "project",
-        "status": "unverified"
+        "status": "verified"
       },
       "license": {
         "recordedLabel": "OFL-1.1",
-        "status": "unverified"
+        "status": "verified",
+        "checkedAt": "2026-09-29",
+        "evidence": "https://github.com/Warren2060/ChillGSans/blob/HEAD/OFL.txt",
+        "file": "assets/fonts/licenses/upstream/chill-gsans.txt"
       }
     },
     {
@@ -883,11 +1000,14 @@
       "source": {
         "url": "https://github.com/Warren2060/ChillRoundGothic",
         "kind": "project",
-        "status": "unverified"
+        "status": "verified"
       },
       "license": {
         "recordedLabel": "OFL-1.1",
-        "status": "unverified"
+        "status": "verified",
+        "checkedAt": "2026-09-29",
+        "evidence": "https://github.com/Warren2060/ChillRoundGothic/blob/HEAD/License.txt",
+        "file": "assets/fonts/licenses/upstream/chill-roundgothic.txt"
       }
     },
     {
@@ -905,11 +1025,14 @@
       "source": {
         "url": "https://github.com/Warren2060/ChillKSans",
         "kind": "project",
-        "status": "unverified"
+        "status": "verified"
       },
       "license": {
         "recordedLabel": "OFL-1.1",
-        "status": "unverified"
+        "status": "verified",
+        "checkedAt": "2026-09-29",
+        "evidence": "https://github.com/Warren2060/ChillKSans/blob/HEAD/license",
+        "file": "assets/fonts/licenses/upstream/chill-ksans.txt"
       }
     },
     {
@@ -927,11 +1050,14 @@
       "source": {
         "url": "https://github.com/Warren2060/ChillTanHei",
         "kind": "project",
-        "status": "unverified"
+        "status": "verified"
       },
       "license": {
         "recordedLabel": "OFL-1.1",
-        "status": "unverified"
+        "status": "verified",
+        "checkedAt": "2026-09-29",
+        "evidence": "https://github.com/Warren2060/ChillTanHei/blob/HEAD/License",
+        "file": "assets/fonts/licenses/upstream/chill-tanhei.txt"
       }
     },
     {
@@ -949,11 +1075,14 @@
       "source": {
         "url": "https://github.com/TrionesType/zhuque",
         "kind": "project",
-        "status": "unverified"
+        "status": "verified"
       },
       "license": {
         "recordedLabel": "OFL-1.1",
-        "status": "unverified"
+        "status": "verified",
+        "checkedAt": "2026-09-29",
+        "evidence": "https://github.com/TrionesType/zhuque/blob/HEAD/LICENSE.txt",
+        "file": "assets/fonts/licenses/upstream/zhuque.txt"
       }
     },
     {
@@ -972,11 +1101,14 @@
       "source": {
         "url": "https://github.com/Miiiller/Xiangcui-Wave-Sans",
         "kind": "project",
-        "status": "unverified"
+        "status": "verified"
       },
       "license": {
         "recordedLabel": "OFL-1.1",
-        "status": "unverified"
+        "status": "verified",
+        "checkedAt": "2026-09-29",
+        "evidence": "https://github.com/Miiiller/Xiangcui-Wave-Sans/blob/HEAD/License",
+        "file": "assets/fonts/licenses/upstream/xiangcui-wave.txt"
       }
     },
     {
@@ -995,11 +1127,14 @@
       "source": {
         "url": "https://github.com/InkPantherType/CheeseFoamOolongSong",
         "kind": "project",
-        "status": "unverified"
+        "status": "verified"
       },
       "license": {
         "recordedLabel": "OFL-1.1",
-        "status": "unverified"
+        "status": "verified",
+        "checkedAt": "2026-09-29",
+        "evidence": "https://github.com/InkPantherType/CheeseFoamOolongSong/blob/HEAD/OFL.txt",
+        "file": "assets/fonts/licenses/upstream/cheese-foam.txt"
       }
     },
     {
@@ -1017,11 +1152,14 @@
       "source": {
         "url": "https://github.com/ChiuMing-Neko/ChiuKongGothic",
         "kind": "project",
-        "status": "unverified"
+        "status": "verified"
       },
       "license": {
         "recordedLabel": "OFL-1.1",
-        "status": "unverified"
+        "status": "verified",
+        "checkedAt": "2026-09-29",
+        "evidence": "https://github.com/ChiuMing-Neko/ChiuKongGothic/blob/HEAD/LICENSE.txt",
+        "file": "assets/fonts/licenses/upstream/chiukong.txt"
       }
     },
     {
@@ -1040,11 +1178,14 @@
       "source": {
         "url": "https://github.com/yzdnn/ShanWeiZhouHei-16",
         "kind": "project",
-        "status": "unverified"
+        "status": "verified"
       },
       "license": {
         "recordedLabel": "OFL-1.1",
-        "status": "unverified"
+        "status": "verified",
+        "checkedAt": "2026-09-29",
+        "evidence": "https://github.com/yzdnn/ShanWeiZhouHei-16/blob/HEAD/OFL.txt",
+        "file": "assets/fonts/licenses/upstream/shanwei.txt"
       }
     },
     {
@@ -1062,11 +1203,14 @@
       "source": {
         "url": "https://github.com/Kalooos0/KaloSans",
         "kind": "project",
-        "status": "unverified"
+        "status": "verified"
       },
       "license": {
         "recordedLabel": "OFL-1.1",
-        "status": "unverified"
+        "status": "verified",
+        "checkedAt": "2026-09-29",
+        "evidence": "https://github.com/Kalooos0/KaloSans/blob/HEAD/LICENSE",
+        "file": "assets/fonts/licenses/upstream/kalosans.txt"
       }
     },
     {
@@ -1084,11 +1228,14 @@
       "source": {
         "url": "https://github.com/Leroy-X/Hack-Sara",
         "kind": "project",
-        "status": "unverified"
+        "status": "verified"
       },
       "license": {
         "recordedLabel": "OFL-1.1",
-        "status": "unverified"
+        "status": "verified",
+        "checkedAt": "2026-09-29",
+        "evidence": "https://github.com/Leroy-X/Hack-Sara/blob/HEAD/LICENSE.txt",
+        "file": "assets/fonts/licenses/upstream/hack-sara.txt"
       }
     },
     {
@@ -1107,11 +1254,14 @@
       "source": {
         "url": "https://github.com/DraftingDreamer/FontCilantroCode",
         "kind": "project",
-        "status": "unverified"
+        "status": "verified"
       },
       "license": {
         "recordedLabel": "OFL-1.1",
-        "status": "unverified"
+        "status": "verified",
+        "checkedAt": "2026-09-29",
+        "evidence": "https://github.com/DraftingDreamer/FontCilantroCode/blob/HEAD/LICENSE",
+        "file": "assets/fonts/licenses/upstream/cilantro-code.txt"
       }
     },
     {
@@ -1129,11 +1279,14 @@
       "source": {
         "url": "https://github.com/Eujenz/LINE-Seed-TW-Reader",
         "kind": "project",
-        "status": "unverified"
+        "status": "verified"
       },
       "license": {
-        "recordedLabel": "作者声明免费商用",
-        "status": "unverified"
+        "recordedLabel": "OFL-1.1",
+        "status": "verified",
+        "checkedAt": "2026-09-29",
+        "evidence": "https://github.com/Eujenz/LINE-Seed-TW-Reader/blob/HEAD/LICENSE.txt",
+        "file": "assets/fonts/licenses/upstream/line-seed-tw.txt"
       }
     },
     {
@@ -1151,11 +1304,14 @@
       "source": {
         "url": "https://github.com/ButTaiwan/genyo-font",
         "kind": "project",
-        "status": "unverified"
+        "status": "verified"
       },
       "license": {
         "recordedLabel": "OFL-1.1",
-        "status": "unverified"
+        "status": "verified",
+        "checkedAt": "2026-09-29",
+        "evidence": "https://github.com/ButTaiwan/genyo-font/blob/HEAD/SIL_Open_Font_License_1.1.txt",
+        "file": "assets/fonts/licenses/upstream/genyo-min.txt"
       }
     },
     {
@@ -1173,11 +1329,14 @@
       "source": {
         "url": "https://github.com/ButTaiwan/genyog-font",
         "kind": "project",
-        "status": "unverified"
+        "status": "verified"
       },
       "license": {
         "recordedLabel": "OFL-1.1",
-        "status": "unverified"
+        "status": "verified",
+        "checkedAt": "2026-09-29",
+        "evidence": "https://github.com/ButTaiwan/genyog-font/blob/HEAD/SIL_Open_Font_License_1.1.txt",
+        "file": "assets/fonts/licenses/upstream/genyo-gothic.txt"
       }
     },
     {
@@ -1195,11 +1354,14 @@
       "source": {
         "url": "https://github.com/ButTaiwan/gensen-font",
         "kind": "project",
-        "status": "unverified"
+        "status": "verified"
       },
       "license": {
         "recordedLabel": "OFL-1.1",
-        "status": "unverified"
+        "status": "verified",
+        "checkedAt": "2026-09-29",
+        "evidence": "https://github.com/ButTaiwan/gensen-font/blob/HEAD/SIL_Open_Font_License_1.1.txt",
+        "file": "assets/fonts/licenses/upstream/gensen-rounded.txt"
       }
     },
     {
@@ -1217,11 +1379,14 @@
       "source": {
         "url": "https://github.com/ButTaiwan/genwan-font",
         "kind": "project",
-        "status": "unverified"
+        "status": "verified"
       },
       "license": {
         "recordedLabel": "OFL-1.1",
-        "status": "unverified"
+        "status": "verified",
+        "checkedAt": "2026-09-29",
+        "evidence": "https://github.com/ButTaiwan/genwan-font/blob/HEAD/SIL_Open_Font_License_1.1.txt",
+        "file": "assets/fonts/licenses/upstream/genwan-min.txt"
       }
     },
     {
@@ -1239,11 +1404,14 @@
       "source": {
         "url": "https://github.com/ButTaiwan/genyo-font",
         "kind": "project",
-        "status": "unverified"
+        "status": "verified"
       },
       "license": {
         "recordedLabel": "OFL-1.1",
-        "status": "unverified"
+        "status": "verified",
+        "checkedAt": "2026-09-29",
+        "evidence": "https://github.com/ButTaiwan/genyo-font/blob/HEAD/SIL_Open_Font_License_1.1.txt",
+        "file": "assets/fonts/licenses/upstream/genki-min.txt"
       }
     },
     {
@@ -1261,11 +1429,14 @@
       "source": {
         "url": "https://github.com/ButTaiwan/genyog-font",
         "kind": "project",
-        "status": "unverified"
+        "status": "verified"
       },
       "license": {
         "recordedLabel": "OFL-1.1",
-        "status": "unverified"
+        "status": "verified",
+        "checkedAt": "2026-09-29",
+        "evidence": "https://github.com/ButTaiwan/genyog-font/blob/HEAD/SIL_Open_Font_License_1.1.txt",
+        "file": "assets/fonts/licenses/upstream/genki-gothic.txt"
       }
     },
     {
@@ -1283,11 +1454,14 @@
       "source": {
         "url": "https://github.com/ayaka14732/FanWunMing",
         "kind": "project",
-        "status": "unverified"
+        "status": "verified"
       },
       "license": {
         "recordedLabel": "OFL-1.1",
-        "status": "unverified"
+        "status": "verified",
+        "checkedAt": "2026-09-29",
+        "evidence": "https://github.com/ayaka14732/FanWunMing/blob/HEAD/LICENSE",
+        "file": "assets/fonts/licenses/upstream/fanwun-ming.txt"
       }
     },
     {
@@ -1305,11 +1479,14 @@
       "source": {
         "url": "https://github.com/ayaka14732/FanWunHak",
         "kind": "project",
-        "status": "unverified"
+        "status": "verified"
       },
       "license": {
         "recordedLabel": "OFL-1.1",
-        "status": "unverified"
+        "status": "verified",
+        "checkedAt": "2026-09-29",
+        "evidence": "https://github.com/ayaka14732/FanWunHak/blob/HEAD/LICENSE",
+        "file": "assets/fonts/licenses/upstream/fanwun-hak.txt"
       }
     },
     {
@@ -1326,12 +1503,15 @@
       "latinSampleSupported": true,
       "source": {
         "url": "https://github.com/vp-tw/taipei-sans-tc",
-        "kind": "project",
-        "status": "unverified"
+        "kind": "third-party",
+        "status": "verified"
       },
       "license": {
         "recordedLabel": "OFL-1.1",
-        "status": "unverified"
+        "status": "verified",
+        "checkedAt": "2026-09-29",
+        "evidence": "https://github.com/vp-tw/taipei-sans-tc/blob/HEAD/packages/core/LICENSE",
+        "file": "assets/fonts/licenses/upstream/taipei-sans.txt"
       }
     },
     {
@@ -1349,11 +1529,14 @@
       "source": {
         "url": "https://github.com/Cycatz/InconsolataLGC-TaipeiSansTC",
         "kind": "project",
-        "status": "unverified"
+        "status": "verified"
       },
       "license": {
         "recordedLabel": "OFL-1.1",
-        "status": "unverified"
+        "status": "verified",
+        "checkedAt": "2026-09-29",
+        "evidence": "https://github.com/Cycatz/InconsolataLGC-TaipeiSansTC/blob/HEAD/LICENSE",
+        "file": "assets/fonts/licenses/upstream/inconsolata-taipei.txt"
       }
     },
     {
@@ -1372,11 +1555,14 @@
       "source": {
         "url": "https://github.com/jeffreyxuan/toneoz-font-pinyin-wenkai",
         "kind": "project",
-        "status": "unverified"
+        "status": "verified"
       },
       "license": {
         "recordedLabel": "OFL-1.1",
-        "status": "unverified"
+        "status": "verified",
+        "checkedAt": "2026-09-29",
+        "evidence": "https://github.com/jeffreyxuan/toneoz-font-pinyin-wenkai/blob/HEAD/OFL.txt",
+        "file": "assets/fonts/licenses/upstream/toneoz-wenkai.txt"
       }
     },
     {
@@ -1395,11 +1581,14 @@
       "source": {
         "url": "https://github.com/chiron-fonts/chiron-hei-hk",
         "kind": "project",
-        "status": "unverified"
+        "status": "verified"
       },
       "license": {
         "recordedLabel": "OFL-1.1",
-        "status": "unverified"
+        "status": "verified",
+        "checkedAt": "2026-09-29",
+        "evidence": "https://github.com/chiron-fonts/chiron-hei-hk/blob/HEAD/LICENSE.md",
+        "file": "assets/fonts/licenses/upstream/chiron-hei.txt"
       }
     },
     {
@@ -1417,11 +1606,14 @@
       "source": {
         "url": "https://github.com/chiron-fonts/chiron-sung-hk",
         "kind": "project",
-        "status": "unverified"
+        "status": "verified"
       },
       "license": {
         "recordedLabel": "OFL-1.1",
-        "status": "unverified"
+        "status": "verified",
+        "checkedAt": "2026-09-29",
+        "evidence": "https://github.com/chiron-fonts/chiron-sung-hk/blob/HEAD/LICENSE.md",
+        "file": "assets/fonts/licenses/upstream/chiron-sung.txt"
       }
     },
     {
@@ -1439,11 +1631,14 @@
       "source": {
         "url": "https://github.com/chiron-fonts/chiron-go-round-tc",
         "kind": "project",
-        "status": "unverified"
+        "status": "verified"
       },
       "license": {
         "recordedLabel": "OFL-1.1",
-        "status": "unverified"
+        "status": "verified",
+        "checkedAt": "2026-09-29",
+        "evidence": "https://github.com/chiron-fonts/chiron-go-round-tc/blob/HEAD/LICENSE.md",
+        "file": "assets/fonts/licenses/upstream/chiron-go-round.txt"
       }
     },
     {
@@ -1461,11 +1656,14 @@
       "source": {
         "url": "https://github.com/chiron-fonts/zev-hei-tc",
         "kind": "project",
-        "status": "unverified"
+        "status": "verified"
       },
       "license": {
         "recordedLabel": "OFL-1.1",
-        "status": "unverified"
+        "status": "verified",
+        "checkedAt": "2026-09-29",
+        "evidence": "https://github.com/chiron-fonts/zev-hei-tc/blob/HEAD/LICENSE.md",
+        "file": "assets/fonts/licenses/upstream/zev-hei.txt"
       }
     },
     {
@@ -1483,11 +1681,14 @@
       "source": {
         "url": "https://github.com/tauhu-tw/tauhu-oo",
         "kind": "project",
-        "status": "unverified"
+        "status": "verified"
       },
       "license": {
         "recordedLabel": "OFL-1.1",
-        "status": "unverified"
+        "status": "verified",
+        "checkedAt": "2026-09-29",
+        "evidence": "https://github.com/tauhu-tw/tauhu-oo/blob/HEAD/LICENSE.txt",
+        "file": "assets/fonts/licenses/upstream/tauhu-oo.txt"
       }
     },
     {
@@ -1506,11 +1707,14 @@
       "source": {
         "url": "https://github.com/NightFurySL2001/WD-XL-font",
         "kind": "project",
-        "status": "unverified"
+        "status": "verified"
       },
       "license": {
         "recordedLabel": "OFL-1.1",
-        "status": "unverified"
+        "status": "verified",
+        "checkedAt": "2026-09-29",
+        "evidence": "https://github.com/NightFurySL2001/WD-XL-font/blob/HEAD/OFL.txt",
+        "file": "assets/fonts/licenses/upstream/wd-xl-lubri.txt"
       }
     },
     {
@@ -1528,11 +1732,14 @@
       "source": {
         "url": "https://github.com/ButTaiwan/genryu-font",
         "kind": "project",
-        "status": "unverified"
+        "status": "verified"
       },
       "license": {
         "recordedLabel": "OFL-1.1",
-        "status": "unverified"
+        "status": "verified",
+        "checkedAt": "2026-09-29",
+        "evidence": "https://github.com/ButTaiwan/genryu-font/blob/HEAD/SIL_Open_Font_License_1.1.txt",
+        "file": "assets/fonts/licenses/upstream/genryu-min.txt"
       }
     },
     {
@@ -1550,11 +1757,14 @@
       "source": {
         "url": "https://github.com/ButTaiwan/genseki-font",
         "kind": "project",
-        "status": "unverified"
+        "status": "verified"
       },
       "license": {
         "recordedLabel": "OFL-1.1",
-        "status": "unverified"
+        "status": "verified",
+        "checkedAt": "2026-09-29",
+        "evidence": "https://github.com/ButTaiwan/genseki-font/blob/HEAD/SIL_Open_Font_License_1.1.txt",
+        "file": "assets/fonts/licenses/upstream/genseki-gothic.txt"
       }
     },
     {
@@ -1572,11 +1782,14 @@
       "source": {
         "url": "https://github.com/lxgw/LxgwWenKaiTC",
         "kind": "project",
-        "status": "unverified"
+        "status": "verified"
       },
       "license": {
         "recordedLabel": "OFL-1.1",
-        "status": "unverified"
+        "status": "verified",
+        "checkedAt": "2026-09-29",
+        "evidence": "https://github.com/lxgw/LxgwWenKaiTC/blob/HEAD/OFL.txt",
+        "file": "assets/fonts/licenses/upstream/lxgw-wenkai-tc.txt"
       }
     },
     {
@@ -1594,11 +1807,14 @@
       "source": {
         "url": "https://github.com/be5invis/Sarasa-Gothic",
         "kind": "project",
-        "status": "unverified"
+        "status": "verified"
       },
       "license": {
         "recordedLabel": "OFL-1.1",
-        "status": "unverified"
+        "status": "verified",
+        "checkedAt": "2026-09-29",
+        "evidence": "https://github.com/be5invis/Sarasa-Gothic/blob/HEAD/LICENSE",
+        "file": "assets/fonts/licenses/upstream/sarasa-gothic-tc.txt"
       }
     },
     {
@@ -1617,33 +1833,14 @@
       "source": {
         "url": "https://github.com/ButTaiwan/evilsung",
         "kind": "project",
-        "status": "unverified"
+        "status": "verified"
       },
       "license": {
         "recordedLabel": "OFL-1.1",
-        "status": "unverified"
-      }
-    },
-    {
-      "id": "iming",
-      "name": "一點明體",
-      "family": "I.Ming-8.10",
-      "variant": "常规体",
-      "category": "serif",
-      "tags": [
-        "正文",
-        "简体"
-      ],
-      "sampleText": "春风入纸\n山水之间",
-      "latinSampleSupported": true,
-      "source": {
-        "url": "https://github.com/ichitenfont/I.Ming",
-        "kind": "project",
-        "status": "unverified"
-      },
-      "license": {
-        "recordedLabel": "IPA Font License 1.0",
-        "status": "unverified"
+        "status": "verified",
+        "checkedAt": "2026-09-29",
+        "evidence": "https://github.com/ButTaiwan/evilsung/blob/HEAD/SIL_Open_Font_License_1.1.txt",
+        "file": "assets/fonts/licenses/upstream/evilsung.txt"
       }
     },
     {
@@ -1661,11 +1858,14 @@
       "source": {
         "url": "https://github.com/chiron-fonts/ZevaCode",
         "kind": "project",
-        "status": "unverified"
+        "status": "verified"
       },
       "license": {
         "recordedLabel": "OFL-1.1",
-        "status": "unverified"
+        "status": "verified",
+        "checkedAt": "2026-09-29",
+        "evidence": "https://github.com/chiron-fonts/ZevaCode/blob/HEAD/LICENSE.md",
+        "file": "assets/fonts/licenses/upstream/zevacode.txt"
       }
     },
     {
@@ -1683,11 +1883,14 @@
       "source": {
         "url": "https://github.com/MoonlitOwen/CactusSerif",
         "kind": "project",
-        "status": "unverified"
+        "status": "verified"
       },
       "license": {
         "recordedLabel": "OFL-1.1",
-        "status": "unverified"
+        "status": "verified",
+        "checkedAt": "2026-09-29",
+        "evidence": "https://github.com/MoonlitOwen/CactusSerif/blob/HEAD/license.md",
+        "file": "assets/fonts/licenses/upstream/cactus-serif.txt"
       }
     },
     {
@@ -1705,11 +1908,14 @@
       "source": {
         "url": "https://github.com/MoonlitOwen/ChocolateSans",
         "kind": "project",
-        "status": "unverified"
+        "status": "verified"
       },
       "license": {
         "recordedLabel": "OFL-1.1",
-        "status": "unverified"
+        "status": "verified",
+        "checkedAt": "2026-09-29",
+        "evidence": "https://github.com/MoonlitOwen/ChocolateSans/blob/HEAD/license.md",
+        "file": "assets/fonts/licenses/upstream/chocolate-sans.txt"
       }
     },
     {
@@ -1728,11 +1934,14 @@
       "source": {
         "url": "https://github.com/MoonlitOwen/ThenKhung",
         "kind": "project",
-        "status": "unverified"
+        "status": "verified"
       },
       "license": {
         "recordedLabel": "OFL-1.1",
-        "status": "unverified"
+        "status": "verified",
+        "checkedAt": "2026-09-29",
+        "evidence": "https://github.com/MoonlitOwen/ThenKhung/blob/HEAD/license.md",
+        "file": "assets/fonts/licenses/upstream/thenkhung.txt"
       }
     },
     {
@@ -1750,11 +1959,14 @@
       "source": {
         "url": "https://github.com/max32002/kurewa-gothic",
         "kind": "project",
-        "status": "unverified"
+        "status": "verified"
       },
       "license": {
         "recordedLabel": "OFL-1.1",
-        "status": "unverified"
+        "status": "verified",
+        "checkedAt": "2026-09-29",
+        "evidence": "https://github.com/max32002/kurewa-gothic/blob/HEAD/SIL_Open_Font_License_1.1.txt",
+        "file": "assets/fonts/licenses/upstream/kurewa.txt"
       }
     },
     {
@@ -1772,11 +1984,14 @@
       "source": {
         "url": "https://github.com/max32002/swei-fan-serif",
         "kind": "project",
-        "status": "unverified"
+        "status": "verified"
       },
       "license": {
         "recordedLabel": "OFL-1.1",
-        "status": "unverified"
+        "status": "verified",
+        "checkedAt": "2026-09-29",
+        "evidence": "https://github.com/max32002/swei-fan-serif/blob/HEAD/SIL_Open_Font_License_1.1.txt",
+        "file": "assets/fonts/licenses/upstream/swei-fan-serif.txt"
       }
     },
     {
@@ -1794,11 +2009,14 @@
       "source": {
         "url": "https://github.com/lxgw/Fanmei",
         "kind": "project",
-        "status": "unverified"
+        "status": "verified"
       },
       "license": {
         "recordedLabel": "0BSD",
-        "status": "unverified"
+        "status": "verified",
+        "checkedAt": "2026-09-29",
+        "evidence": "https://github.com/lxgw/Fanmei/blob/HEAD/LICENSE",
+        "file": "assets/fonts/licenses/upstream/fanmei.txt"
       }
     },
     {
@@ -1817,11 +2035,14 @@
       "source": {
         "url": "https://github.com/Steve-Yuu/Chuanqu",
         "kind": "project",
-        "status": "unverified"
+        "status": "verified"
       },
       "license": {
         "recordedLabel": "OFL-1.1",
-        "status": "unverified"
+        "status": "verified",
+        "checkedAt": "2026-09-29",
+        "evidence": "https://github.com/Steve-Yuu/Chuanqu/blob/HEAD/OFL.txt",
+        "file": "assets/fonts/licenses/upstream/chuanqu.txt"
       }
     },
     {
@@ -1840,11 +2061,14 @@
       "source": {
         "url": "https://github.com/IBM/plex",
         "kind": "project",
-        "status": "unverified"
+        "status": "verified"
       },
       "license": {
         "recordedLabel": "OFL-1.1",
-        "status": "unverified"
+        "status": "verified",
+        "checkedAt": "2026-09-29",
+        "evidence": "https://github.com/IBM/plex/blob/HEAD/packages/plex-sans-tc/LICENSE.txt",
+        "file": "assets/fonts/licenses/upstream/ibm-plex-sans-tc.txt"
       }
     },
     {
@@ -1862,11 +2086,14 @@
       "source": {
         "url": "https://github.com/Steve-Yuu/YshiPen-Shuti",
         "kind": "project",
-        "status": "unverified"
+        "status": "verified"
       },
       "license": {
         "recordedLabel": "OFL-1.1",
-        "status": "unverified"
+        "status": "verified",
+        "checkedAt": "2026-09-29",
+        "evidence": "https://github.com/Steve-Yuu/YshiPen-Shuti/blob/HEAD/OFL.txt",
+        "file": "assets/fonts/licenses/upstream/yshi-pen.txt"
       }
     },
     {
@@ -1884,192 +2111,14 @@
       "source": {
         "url": "https://github.com/lxgw/LxgwZhenKai",
         "kind": "project",
-        "status": "unverified"
+        "status": "verified"
       },
       "license": {
         "recordedLabel": "OFL-1.1",
-        "status": "unverified"
-      }
-    },
-    {
-      "id": "alibaba-puhuiti",
-      "name": "阿里巴巴普惠体",
-      "family": "Alibaba-PuHuiTi",
-      "variant": "特粗",
-      "category": "sans",
-      "tags": [
-        "正文",
-        "简体"
-      ],
-      "sampleText": "春风入纸\n山水之间",
-      "latinSampleSupported": true,
-      "source": {
-        "url": "https://github.com/wordshub/free-font",
-        "kind": "collection",
-        "status": "unverified"
-      },
-      "license": {
-        "recordedLabel": "阿里官方声明永久免费商用",
-        "status": "unverified"
-      }
-    },
-    {
-      "id": "oppo-sans",
-      "name": "OPPO Sans",
-      "family": "OPPOSans-H",
-      "variant": "常规体",
-      "category": "sans",
-      "tags": [
-        "标题",
-        "海报",
-        "简体"
-      ],
-      "sampleText": "春风入纸\n山水之间",
-      "latinSampleSupported": true,
-      "source": {
-        "url": "https://github.com/wordshub/free-font",
-        "kind": "collection",
-        "status": "unverified"
-      },
-      "license": {
-        "recordedLabel": "OPPO官方声明免费商用",
-        "status": "unverified"
-      }
-    },
-    {
-      "id": "zcool-wenyi",
-      "name": "站酷文艺体",
-      "family": "站酷文艺体",
-      "variant": "常规体",
-      "category": "sans",
-      "tags": [
-        "标题",
-        "简体"
-      ],
-      "sampleText": "春风入纸\n山水之间",
-      "latinSampleSupported": true,
-      "source": {
-        "url": "https://github.com/wordshub/free-font",
-        "kind": "collection",
-        "status": "unverified"
-      },
-      "license": {
-        "recordedLabel": "站酷免费商用",
-        "status": "unverified"
-      }
-    },
-    {
-      "id": "youshe-biaotihei",
-      "name": "优设标题黑",
-      "family": "优设标题黑",
-      "variant": "常规体",
-      "category": "sans",
-      "tags": [
-        "标题",
-        "海报",
-        "简体"
-      ],
-      "sampleText": "春风入纸\n山水之间",
-      "latinSampleSupported": true,
-      "source": {
-        "url": "https://github.com/wordshub/free-font",
-        "kind": "collection",
-        "status": "unverified"
-      },
-      "license": {
-        "recordedLabel": "优设免费商用",
-        "status": "unverified"
-      }
-    },
-    {
-      "id": "pangmen-biaoti",
-      "name": "庞门正道标题体",
-      "family": "庞门正道标题体",
-      "variant": "常规体",
-      "category": "sans",
-      "tags": [
-        "标题",
-        "海报",
-        "简体"
-      ],
-      "sampleText": "春风入纸\n山水之间",
-      "latinSampleSupported": true,
-      "source": {
-        "url": "https://github.com/wordshub/free-font",
-        "kind": "collection",
-        "status": "unverified"
-      },
-      "license": {
-        "recordedLabel": "作者声明免费商用",
-        "status": "unverified"
-      }
-    },
-    {
-      "id": "ruizi-zhenyan",
-      "name": "锐字真言体",
-      "family": "锐字真言体",
-      "variant": "常规体",
-      "category": "sans",
-      "tags": [
-        "标题",
-        "海报",
-        "简体"
-      ],
-      "sampleText": "春风入纸\n山水之间",
-      "latinSampleSupported": true,
-      "source": {
-        "url": "https://github.com/wordshub/free-font",
-        "kind": "collection",
-        "status": "unverified"
-      },
-      "license": {
-        "recordedLabel": "锐字免费商用",
-        "status": "unverified"
-      }
-    },
-    {
-      "id": "yangrendong-zhushi",
-      "name": "杨任东竹石体",
-      "family": "杨任东竹石体",
-      "variant": "粗体",
-      "category": "handwritten",
-      "tags": [
-        "海报",
-        "简体"
-      ],
-      "sampleText": "春风入纸\n山水之间",
-      "latinSampleSupported": true,
-      "source": {
-        "url": "https://github.com/wordshub/free-font",
-        "kind": "collection",
-        "status": "unverified"
-      },
-      "license": {
-        "recordedLabel": "作者声明免费商用",
-        "status": "unverified"
-      }
-    },
-    {
-      "id": "jiangxi-zhuokai",
-      "name": "江西拙楷",
-      "family": "江西拙楷",
-      "variant": "常规体",
-      "category": "kai",
-      "tags": [
-        "标题",
-        "海报",
-        "简体"
-      ],
-      "sampleText": "春风入纸\n山水之间",
-      "latinSampleSupported": true,
-      "source": {
-        "url": "https://github.com/wordshub/free-font",
-        "kind": "collection",
-        "status": "unverified"
-      },
-      "license": {
-        "recordedLabel": "作者声明免费商用",
-        "status": "unverified"
+        "status": "verified",
+        "checkedAt": "2026-09-29",
+        "evidence": "https://github.com/lxgw/LxgwZhenKai/blob/HEAD/OFL.txt",
+        "file": "assets/fonts/licenses/upstream/lxgw-zhenkai.txt"
       }
     },
     {
@@ -2084,13 +2133,16 @@
       "sampleText": "春风入纸\n山水之间",
       "latinSampleSupported": true,
       "source": {
-        "url": "https://github.com/wordshub/free-font",
-        "kind": "collection",
-        "status": "unverified"
+        "url": "https://github.com/maoken-fonts/slidefont",
+        "kind": "project",
+        "status": "verified"
       },
       "license": {
-        "recordedLabel": "Keynote研究所免费商用",
-        "status": "unverified"
+        "recordedLabel": "OFL-1.1",
+        "status": "verified",
+        "checkedAt": "2026-09-29",
+        "evidence": "https://github.com/maoken-fonts/slidefont/blob/HEAD/OFL.txt",
+        "file": "assets/fonts/licenses/upstream/yanshi-qiuhongkai.txt"
       }
     },
     {
@@ -2107,33 +2159,14 @@
       "source": {
         "url": "https://github.com/maoken-fonts/slidefont",
         "kind": "project",
-        "status": "unverified"
+        "status": "verified"
       },
       "license": {
         "recordedLabel": "OFL-1.1",
-        "status": "unverified"
-      }
-    },
-    {
-      "id": "muyao-ruanbi",
-      "name": "沐瑶软笔手写体",
-      "family": "沐瑶软笔手写体",
-      "variant": "常规体",
-      "category": "handwritten",
-      "tags": [
-        "海报",
-        "简体"
-      ],
-      "sampleText": "春风入纸\n山水之间",
-      "latinSampleSupported": true,
-      "source": {
-        "url": "https://github.com/wordshub/free-font",
-        "kind": "collection",
-        "status": "unverified"
-      },
-      "license": {
-        "recordedLabel": "作者声明免费商用",
-        "status": "unverified"
+        "status": "verified",
+        "checkedAt": "2026-09-29",
+        "evidence": "https://github.com/maoken-fonts/slidefont/blob/HEAD/OFL.txt",
+        "file": "assets/fonts/licenses/upstream/yanshi-xiaxingkai.txt"
       }
     },
     {
@@ -2149,13 +2182,16 @@
       "sampleText": "春风入纸\n山水之间",
       "latinSampleSupported": true,
       "source": {
-        "url": "https://github.com/wordshub/free-font",
-        "kind": "collection",
-        "status": "unverified"
+        "url": "https://github.com/maoken-fonts/slidefont",
+        "kind": "project",
+        "status": "verified"
       },
       "license": {
-        "recordedLabel": "全渠道免费商用",
-        "status": "unverified"
+        "recordedLabel": "OFL-1.1",
+        "status": "verified",
+        "checkedAt": "2026-09-29",
+        "evidence": "https://github.com/maoken-fonts/slidefont/blob/HEAD/OFL.txt",
+        "file": "assets/fonts/licenses/upstream/yanshi-foxi.txt"
       }
     },
     {
@@ -2172,55 +2208,14 @@
       "source": {
         "url": "https://github.com/maoken-fonts/slidefont",
         "kind": "project",
-        "status": "unverified"
+        "status": "verified"
       },
       "license": {
         "recordedLabel": "OFL-1.1",
-        "status": "unverified"
-      }
-    },
-    {
-      "id": "lxgw-neoxihei",
-      "name": "霞鹜新晰黑",
-      "family": "LXGWNeoXiHei",
-      "variant": "常规体",
-      "category": "sans",
-      "tags": [
-        "正文",
-        "简体"
-      ],
-      "sampleText": "春风入纸\n山水之间",
-      "latinSampleSupported": true,
-      "source": {
-        "url": "https://github.com/lxgw/LxgwNeoXiHei",
-        "kind": "project",
-        "status": "unverified"
-      },
-      "license": {
-        "recordedLabel": "IPA Font License 1.0",
-        "status": "unverified"
-      }
-    },
-    {
-      "id": "lxgw-neozhisong",
-      "name": "霞鹜新致宋",
-      "family": "LXGWNeoZhiSong",
-      "variant": "常规体",
-      "category": "serif",
-      "tags": [
-        "正文",
-        "简体"
-      ],
-      "sampleText": "春风入纸\n山水之间",
-      "latinSampleSupported": true,
-      "source": {
-        "url": "https://github.com/lxgw/LxgwNeoZhiSong",
-        "kind": "project",
-        "status": "unverified"
-      },
-      "license": {
-        "recordedLabel": "IPA Font License 1.0",
-        "status": "unverified"
+        "status": "verified",
+        "checkedAt": "2026-09-29",
+        "evidence": "https://github.com/maoken-fonts/slidefont/blob/HEAD/OFL.txt",
+        "file": "assets/fonts/licenses/upstream/yanshi-youran.txt"
       }
     },
     {
@@ -2238,11 +2233,14 @@
       "source": {
         "url": "https://github.com/Warren2060/ChillDuanSans",
         "kind": "project",
-        "status": "unverified"
+        "status": "verified"
       },
       "license": {
         "recordedLabel": "OFL-1.1",
-        "status": "unverified"
+        "status": "verified",
+        "checkedAt": "2026-09-29",
+        "evidence": "https://github.com/Warren2060/ChillDuanSans/blob/HEAD/License",
+        "file": "assets/fonts/licenses/upstream/chill-duansans.txt"
       }
     },
     {
@@ -2260,11 +2258,14 @@
       "source": {
         "url": "https://github.com/Warren2060/ChillJinshuSong",
         "kind": "project",
-        "status": "unverified"
+        "status": "verified"
       },
       "license": {
         "recordedLabel": "OFL-1.1",
-        "status": "unverified"
+        "status": "verified",
+        "checkedAt": "2026-09-29",
+        "evidence": "https://github.com/Warren2060/ChillJinshuSong/blob/HEAD/LICENSE",
+        "file": "assets/fonts/licenses/upstream/chill-jinshusong.txt"
       }
     },
     {
@@ -2282,33 +2283,14 @@
       "source": {
         "url": "https://github.com/Warren2060/ChillYunmoGothic",
         "kind": "project",
-        "status": "unverified"
+        "status": "verified"
       },
       "license": {
         "recordedLabel": "OFL-1.1",
-        "status": "unverified"
-      }
-    },
-    {
-      "id": "dyslexic-kai",
-      "name": "閱善楷等寬",
-      "family": "DyslexicKaiMono",
-      "variant": "常规体",
-      "category": "kai",
-      "tags": [
-        "正文",
-        "简体"
-      ],
-      "sampleText": "春风入纸\n万物生光",
-      "latinSampleSupported": true,
-      "source": {
-        "url": "https://github.com/DraftingDreamer/FontDyslexicKai",
-        "kind": "project",
-        "status": "unverified"
-      },
-      "license": {
-        "recordedLabel": "作者声明免费商用",
-        "status": "unverified"
+        "status": "verified",
+        "checkedAt": "2026-09-29",
+        "evidence": "https://github.com/Warren2060/ChillYunmoGothic/blob/HEAD/LICENSE",
+        "file": "assets/fonts/licenses/upstream/chill-yunmo.txt"
       }
     },
     {
@@ -2327,11 +2309,14 @@
       "source": {
         "url": "https://github.com/bytedance/fonts",
         "kind": "project",
-        "status": "unverified"
+        "status": "verified"
       },
       "license": {
         "recordedLabel": "OFL-1.1",
-        "status": "unverified"
+        "status": "verified",
+        "checkedAt": "2026-09-29",
+        "evidence": "https://github.com/bytedance/fonts/blob/HEAD/DouyinSans/OFL.txt",
+        "file": "assets/fonts/licenses/upstream/douyin-meihua.txt"
       }
     },
     {
@@ -2350,11 +2335,14 @@
       "source": {
         "url": "https://github.com/kaonashi-tyc/Zi-XuanZongTi",
         "kind": "project",
-        "status": "unverified"
+        "status": "verified"
       },
       "license": {
         "recordedLabel": "OFL-1.1",
-        "status": "unverified"
+        "status": "verified",
+        "checkedAt": "2026-09-29",
+        "evidence": "https://github.com/kaonashi-tyc/Zi-XuanZongTi/blob/HEAD/LICENSE",
+        "file": "assets/fonts/licenses/upstream/xuan-zong-ti.txt"
       }
     },
     {
@@ -2373,147 +2361,14 @@
       "source": {
         "url": "https://github.com/max32002/masafont",
         "kind": "project",
-        "status": "unverified"
+        "status": "verified"
       },
       "license": {
         "recordedLabel": "OFL-1.1",
-        "status": "unverified"
-      }
-    },
-    {
-      "id": "hong-lei-xing-shu",
-      "name": "鸿雷行书简体",
-      "family": "HongLeiXingShu",
-      "variant": "常规体",
-      "category": "handwritten",
-      "tags": [
-        "标题",
-        "海报",
-        "简体"
-      ],
-      "sampleText": "春风入纸\n山水之间",
-      "latinSampleSupported": true,
-      "source": {
-        "url": "https://maoken.com/freefonts/16904",
-        "kind": "third-party",
-        "status": "unverified"
-      },
-      "license": {
-        "recordedLabel": "作者声明可商用",
-        "status": "unverified"
-      }
-    },
-    {
-      "id": "yun-feng-jing-long",
-      "name": "云峰静龙行书",
-      "family": "YunFengJingLong",
-      "variant": "常规体",
-      "category": "handwritten",
-      "tags": [
-        "标题",
-        "海报",
-        "简体"
-      ],
-      "sampleText": "春风入纸\n山水之间",
-      "latinSampleSupported": true,
-      "source": {
-        "url": "https://maoken.com/freefonts/16178",
-        "kind": "third-party",
-        "status": "unverified"
-      },
-      "license": {
-        "recordedLabel": "作者声明可商用",
-        "status": "unverified"
-      }
-    },
-    {
-      "id": "yoz-font-k",
-      "name": "YOzFont毛笔行书",
-      "family": "YOzFontK",
-      "variant": "常规体",
-      "category": "handwritten",
-      "tags": [
-        "标题",
-        "海报",
-        "简体"
-      ],
-      "sampleText": "春風入紙\n山水之間",
-      "latinSampleSupported": true,
-      "source": {
-        "url": "https://maoken.com/freefonts/5369",
-        "kind": "third-party",
-        "status": "unverified"
-      },
-      "license": {
-        "recordedLabel": "OFL-1.1",
-        "status": "unverified"
-      }
-    },
-    {
-      "id": "mikhail-cai-caoshu",
-      "name": "草书·mikhailcai",
-      "family": "MikhailCaiCaoshu",
-      "variant": "简体字形",
-      "category": "handwritten",
-      "tags": [
-        "海报",
-        "艺术字"
-      ],
-      "sampleText": "春风入纸\n山水之间",
-      "latinSampleSupported": true,
-      "source": {
-        "url": "https://maoken.com/freefonts/10811",
-        "kind": "third-party",
-        "status": "unverified"
-      },
-      "license": {
-        "recordedLabel": "作者放弃版权",
-        "status": "unverified"
-      }
-    },
-    {
-      "id": "san-ji-xing-kai",
-      "name": "三极行楷简体",
-      "family": "SanJiXingKai",
-      "variant": "简体常规",
-      "category": "handwritten",
-      "tags": [
-        "标题",
-        "正文",
-        "简体"
-      ],
-      "sampleText": "春风入纸\n山水之间",
-      "latinSampleSupported": true,
-      "source": {
-        "url": "https://maoken.com/freefonts/13772",
-        "kind": "third-party",
-        "status": "unverified"
-      },
-      "license": {
-        "recordedLabel": "作者声明可商用",
-        "status": "unverified"
-      }
-    },
-    {
-      "id": "kouzan-mao-bi-cao-shu",
-      "name": "衡山毛笔草书",
-      "family": "KouzanMaoBiCaoShu",
-      "variant": "常规体",
-      "category": "handwritten",
-      "tags": [
-        "海报",
-        "艺术字"
-      ],
-      "sampleText": "春風入紙\n山水之間",
-      "latinSampleSupported": true,
-      "source": {
-        "url": "https://maoken.com/freefonts/2478",
-        "kind": "third-party",
-        "status": "unverified"
-      },
-      "license": {
-        "recordedLabel": "作者声明免费商用",
-        "status": "unverified"
+        "status": "verified",
+        "checkedAt": "2026-09-29",
+        "evidence": "https://github.com/max32002/masafont/blob/HEAD/README.md",
+        "file": "assets/fonts/licenses/upstream/masa-font.txt"
       }
     }
   ]

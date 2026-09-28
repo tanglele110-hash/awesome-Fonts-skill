@@ -6,8 +6,9 @@
     "licenseFile": "assets/ui/chienchia-heading-LICENSE.txt",
     "source": "https://github.com/Tsao-Tung/Chienchia",
     "characters": 4,
-    "bytes": 1712,
-    "sha256": "147d037d7441bb767e645c3c287a8f044749dbf6a9c8fe57091411a61c4dde0c"
+    "bytes": 3588,
+    "sha256": "781f3b3256b7a21f6b64e17710e26544de4dce1766910d69b2f16a898825962a",
+    "internalFamily": "AFS-8d1062da83ec"
   },
   {
     "id": "wenjin-interface",
@@ -16,7 +17,8 @@
     "licenseFile": "assets/ui/wenjin-interface-LICENSE.txt",
     "source": "https://github.com/takushun-wu/WenJinMincho",
     "characters": 603,
-    "bytes": 160304,
-    "sha256": "bdf2bd26e1b5fe35176f195bb4b907884508564fac3ea892a87011e4538c29a5"
+    "bytes": 161584,
+    "sha256": "468bdf3a4f6ab891a72302f938564e15c429f00b305a36f559d4c25082e75743",
+    "internalFamily": "AFS-07b3f96edbbb"
   }
 ]

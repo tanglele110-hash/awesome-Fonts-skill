@@ -1,6 +1,6 @@
 # awesome-Fonts-skill
 
-收录 113 款中文字体及变体，按字形分类，附样张与来源。可在线浏览，也可作为 Skill 为文章、网页和海报选字、搭配。
+收录 94 款中文字体及变体，按字形分类，附样张与来源。可在线浏览，也可作为 Skill 为文章、网页和海报选字、搭配。
 
 [在线浏览字体](https://tanglele110-hash.github.io/awesome-Fonts-skill/) · [字体清单](CATALOG.md)
 
@@ -36,8 +36,8 @@
 
 ## 授权与来源
 
-字体版权归原作者，来源与授权记录见[字体清单](CATALOG.md)。授权尚未逐款复核，使用请以原项目许可为准。
+字体版权归原作者。收录字体采用 OFL-1.1 或 0BSD，逐款来源、许可与复核结果见[授权记录](LICENSE-REVIEW.md)。
 
-网页字体为样张子集，完整字库请到来源获取。[字体许可记录](assets/fonts/licenses/README.md)随样张保留；原创脚本与说明采用 [MIT License](LICENSE)。
+网页仅提供样张子集，完整字库请到来源获取。原创脚本与说明采用 [MIT License](LICENSE)。
 
 [整理：木渡川@tanglele0318](https://x.com/tanglele0318)

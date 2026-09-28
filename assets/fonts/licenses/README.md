@@ -1,7 +1,9 @@
-# 字体样张许可与来源
+# 字体许可
 
-页面使用工作台已有的 WOFF2 样张子集，保留原字体版权元数据；子集只含固定样张所需字符。
+本库保留 94 款样张子集：93 款 OFL-1.1、1 款 0BSD。逐款依据与移除记录见 [授权复核记录](../../../LICENSE-REVIEW.md)。
 
-各字体的来源、原授权记录与文件摘要见 [preview-fonts.json](../../../data/preview-fonts.json)，字体内嵌的版权及许可文字见 [font-notices.json](../../../data/font-notices.json)。OFL、0BSD 与 IPA Font License 通用许可附于本目录，其他授权以对应来源项目为准。
+`upstream/` 按字体 ID 保存本次核对的许可原文。Masa Font 的依据为发布项目 README，其随包文件为 OFL 标准正文。原样张版权字段保存在 [font-notices.json](../../../data/font-notices.json)，许可文本同时写入 WOFF2 的 name 表。
 
-这些字体资源不适用仓库代码的 MIT License。完整字体请到来源项目获取。
+OFL 子集采用独立内部名称，保留原版权与许可，不改变字形。完整字库请从各字体来源获取；再发布时保留相应许可文件，遵守保留字体名和不可单独出售字体软件的条件。
+
+界面所用 ChienChia F 和文津宋体也采用 OFL-1.1；对应许可见 `assets/ui/`。

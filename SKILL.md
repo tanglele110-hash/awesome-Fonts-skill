@@ -27,8 +27,8 @@ Filter using the brief's usage, language, size and style. Offer a small differen
 
 - `tags` 的正文、标题、海报是收藏时的设计判断；简体、繁体只描述现有样张，不能证明完整字库覆盖。`sampleText` 是文字内容，不是用该字体渲染的图片。
   Usage tags are design judgments; script tags describe the recorded specimen, not complete character coverage. Sample text is not a rendered specimen.
-- `license.recordedLabel` 是原收藏记录，`status: unverified` 不能作为最新商用、嵌入、修改或再分发许可。需要这些结论时访问具体作者仓库或官方授权页，核对目标版本；查不到就说明未验证。来源是第三方合集时继续找一手依据。
-  Recorded license labels are not current verification. Check the exact upstream version and license for the intended use; follow collection links to primary evidence when necessary.
+- `license` 记录已核对的许可、日期、证据链接与随包原文；逐款结果见 [LICENSE-REVIEW.md](LICENSE-REVIEW.md)。OFL 允许商用、修改和嵌入，但须保留版权与许可、遵守保留字体名，不可单独出售字体软件。使用完整字库时核对所下载版本的许可。
+  The license fields contain the review date, source evidence and bundled text. Follow OFL copyright, naming and redistribution conditions. Check the license accompanying the exact full-font release you obtain.
 - 仓库的 `assets/fonts/` 只含网页样张 WOFF2 子集；不得将其当作完整可用字体。安装或接入前，从核验过的来源获取完整字体，检查用户实际文字的字形覆盖。
   Only fixed specimen WOFF2 subsets are bundled for the gallery. Do not substitute these for a full font. Check the actual requested text against the selected font file.
 - `latinSampleSupported` 只来自原样张记录；不能证明所有拉丁字符、标点或语言的覆盖。混排时标明中文字库和西文字库各自角色。

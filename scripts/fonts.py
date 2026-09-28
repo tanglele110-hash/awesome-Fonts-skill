@@ -19,14 +19,13 @@ def cell(value):
 
 def render(data):
     out = ['# 中文字体目录', '', f"共 {len(data['fonts'])} 条字体及变体记录。", '',
-           '用途来自收藏时的设计判断；简体、繁体标签仅描述样张。授权列为历史记录，均未逐款完成最新授权核验。', '',
-           '“第三方来源”与“合集来源”需要继续定位具体作者或授权页；所有链接均为来源入口，不承诺直链下载。', '']
+           '用途与简繁标签描述现有样张。逐款许可、核对日期及移除记录见 [授权复核记录](LICENSE-REVIEW.md)。', '']
     for category, label in CATEGORIES.items():
         fonts = [f for f in data['fonts'] if f['category'] == category]
         out += [f'## {label}（{len(fonts)}）', '', '| 字体 | 已记录变体 | 用途 / 样张 | 授权记录 | 来源 |', '| --- | --- | --- | --- | --- |']
         for f in fonts:
             kind = {'collection': '合集来源', 'third-party': '第三方来源', 'project': '项目来源'}[f['source']['kind']]
-            out.append('| ' + ' | '.join([cell(f['name']), cell(f['variant']), cell('、'.join(f['tags'])), cell(f['license']['recordedLabel']), f"[{kind}]({f['source']['url']})"]) + ' |')
+            out.append('| ' + ' | '.join([cell(f['name']), cell(f['variant']), cell('、'.join(f['tags'])), f"[{cell(f['license']['recordedLabel'])}]({f['license']['file']})", f"[{kind}]({f['source']['url']})"]) + ' |')
         out += ['']
     return '\n'.join(out)
 
@@ -34,7 +33,7 @@ def render(data):
 def validate(data):
     import hashlib
     import re
-    assert data['schemaVersion'] == 1
+    assert data['schemaVersion'] == 2
     fonts = data['fonts']
     assert fonts and len({f['id'] for f in fonts}) == len(fonts), 'Empty catalog or duplicate IDs'
     allowed = {'id', 'name', 'family', 'variant', 'category', 'tags', 'sampleText', 'latinSampleSupported', 'source', 'license'}
@@ -47,15 +46,39 @@ def validate(data):
         assert isinstance(f['latinSampleSupported'], bool)
         assert set(f['source']) == {'url', 'kind', 'status'}
         assert f['source']['kind'] in {'project', 'collection', 'third-party'}
-        assert f['source']['status'] == 'unverified'
+        assert f['source']['status'] == 'verified'
         u = urlsplit(f['source']['url'])
         assert u.scheme == 'https' and u.hostname in {'github.com', 'maoken.com'} and not (u.username or u.password or u.query or u.fragment)
-        assert set(f['license']) == {'recordedLabel', 'status'}
-        assert isinstance(f['license']['recordedLabel'], str) and f['license']['recordedLabel']
-        assert f['license']['status'] == 'unverified'
+        assert set(f['license']) == {'recordedLabel', 'status', 'checkedAt', 'evidence', 'file'}
+        assert f['license']['recordedLabel'] in {'OFL-1.1', '0BSD'}
+        assert f['license']['status'] == 'verified'
+        assert re.fullmatch(r'\d{4}-\d{2}-\d{2}', f['license']['checkedAt'])
+        assert f['license']['evidence'].startswith('https://')
+        assert f['license']['file'] == f"assets/fonts/licenses/upstream/{f['id']}.txt"
+        assert (ROOT / f['license']['file']).is_file()
+    review = json.loads((ROOT / 'data/license-review.json').read_text(encoding='utf-8'))
+    records = review['records']
+    assert len(records) == len({r['id'] for r in records}) == review['originalCount']
+    retained = {r['id']: r for r in records if r['disposition'] == 'retained'}
+    removed = {r['id']: r for r in records if r['disposition'] == 'removed'}
+    assert len(retained) == review['retainedCount'] and len(removed) == review['removedCount']
+    assert len(retained) + len(removed) == len(records)
+    assert set(retained) == {f['id'] for f in fonts}
+    for f in fonts:
+        r = retained[f['id']]
+        assert r['source'] == f['source']['url'] and r['license'] == f['license']['recordedLabel']
+        assert r['checkedAt'] == f['license']['checkedAt'] and r['evidenceUrls'][0] == f['license']['evidence']
+        assert hashlib.sha256((ROOT / r['licenseFile']).read_bytes()).hexdigest() == r['licenseSha256']
+    for r in removed.values():
+        assert r['reason'] and r['finding'] and r['evidenceUrls']
+        assert not (ROOT / f"assets/fonts/{r['id']}-preview.woff2").exists()
     assert (ROOT / 'CATALOG.md').read_text(encoding='utf-8') == render(data), 'Run build to update CATALOG.md'
     previews = json.loads((ROOT / 'data/preview-fonts.json').read_text(encoding='utf-8'))
     assert {p['id'] for p in previews} == {f['id'] for f in fonts}
+    for p in previews:
+        assert p['sha256'] == retained[p['id']]['distributedSpecimenSha256']
+    notices = json.loads((ROOT / 'data/font-notices.json').read_text(encoding='utf-8'))
+    assert {n['id'] for n in notices} == set(retained)
     expected_previews = {f"assets/fonts/{f['id']}-preview.woff2" for f in fonts}
     assert {p['file'] for p in previews} == expected_previews
     ui_fonts = json.loads((ROOT / 'data/ui-fonts.json').read_text(encoding='utf-8'))
@@ -102,7 +125,7 @@ def main():
             print(json.dumps(result, ensure_ascii=False, indent=2))
         elif result:
             for f in result:
-                print(f"{f['name']} | {CATEGORIES[f['category']]} | {' / '.join(f['tags'])} | {f['source']['url']} | 授权待核验")
+                print(f"{f['name']} | {CATEGORIES[f['category']]} | {' / '.join(f['tags'])} | {f['source']['url']} | {f['license']['recordedLabel']}")
         else:
             print('无匹配字体 / No matches')
 
