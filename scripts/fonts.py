@@ -58,8 +58,10 @@ def validate(data):
     assert {p['id'] for p in previews} == {f['id'] for f in fonts}
     expected_previews = {f"assets/fonts/{f['id']}-preview.woff2" for f in fonts}
     assert {p['file'] for p in previews} == expected_previews
-    assert {p.relative_to(ROOT).as_posix() for p in ROOT.rglob('*.woff2')} == expected_previews
-    for p in previews:
+    ui_fonts = json.loads((ROOT / 'data/ui-fonts.json').read_text(encoding='utf-8'))
+    assert {p['file'] for p in ui_fonts} == {'assets/ui/thenkhung-heading.woff2', 'assets/ui/wenjin-interface.woff2'}
+    assert {p.relative_to(ROOT).as_posix() for p in ROOT.rglob('*.woff2')} == expected_previews | {p['file'] for p in ui_fonts}
+    for p in previews + ui_fonts:
         binary = (ROOT / p['file']).read_bytes()
         assert binary[:4] == b'wOF2' and len(binary) == p['bytes']
         assert hashlib.sha256(binary).hexdigest() == p['sha256']
