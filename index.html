@@ -6,6 +6,8 @@
 <title>字形之美 · 木渡川</title><link rel="icon" href="data:,">
 <style>
 :root{--ink:#11110f;--muted:#74746d;--paper:#f6f6f2;--line:rgb(17 17 15 / .1);color-scheme:light}
+/* Keep card widths stable when filtering toggles vertical overflow. */
+html{scrollbar-gutter:stable}
 *{box-sizing:border-box}body{margin:0;background:var(--paper);color:var(--ink);font:14px/1.6 -apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Microsoft YaHei',sans-serif;-webkit-font-smoothing:antialiased}button,input{font:inherit;color:inherit}button{cursor:pointer;border:0;background:none}a{color:inherit;text-decoration:none}button,a,input{touch-action:manipulation}button:focus-visible,a:focus-visible,input:focus-visible{outline:2px solid var(--ink);outline-offset:4px}
 .sr-only{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip-path:inset(50%);white-space:nowrap}.skip{position:fixed;top:-80px;left:16px;z-index:5;background:white;padding:12px}.skip:focus{top:12px}
 .layout{display:grid;grid-template-columns:216px minmax(0,1fr);min-height:100vh}.sidebar{position:sticky;top:0;height:100vh;padding:26px 18px;border-right:1px solid var(--line);display:flex;flex-direction:column;gap:24px}.brand{font-size:11px;color:var(--muted)}.heading{display:flex;align-items:center;gap:10px;margin:0;font-size:24px;letter-spacing:-.04em}.heading svg{width:23px;height:23px;flex:none}.intro{font-size:12px;color:var(--muted);margin:8px 0 0}
