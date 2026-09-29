@@ -68,7 +68,24 @@ p,h3{margin:0}h3{font-weight:inherit;font-size:inherit}
 .font-specimen{cursor:pointer;position:relative;flex-shrink:0}.font-specimen[data-loading]{visibility:hidden}.font-load-status{position:absolute;top:24px;left:22px;right:22px;color:var(--muted);font-size:12px;z-index:1}
 .font-load-status button{display:block;text-decoration:underline;padding:8px 0}.font-card{position:relative}.document-actions a{display:inline-flex;align-items:center;gap:5px;min-height:32px;font-size:12px;color:#666660}.document-actions svg{width:14px;height:14px}.document-actions button{padding:0}.font-card-heading .card-link{overflow:visible}.font-specimen:focus-visible{outline-offset:-4px}
 @media(max-width:1150px){.layout{grid-template-columns:180px minmax(0,1fr)}main{padding:22px}.gallery{--columns:2}}
-@media(max-width:680px){.layout{display:block}main{padding:12px 16px 32px}.gallery{--columns:1}.reference-site h3{font-size:17px}.reference-site p{font-size:14px}.document-actions button,.document-actions a{min-height:44px}}
+/* Compact three-column phone gallery; keep complete specimens and touch targets. */
+@media(max-width:680px){
+ .layout{display:block}main{padding:12px 8px 32px}.gallery{--columns:3;gap:6px}
+ .gallery>.card{border-radius:8px}
+ .font-card-poster .font-card-heading h3{font-size:12px;line-height:1.4}
+ .font-card-heading .font-name-line{white-space:normal;overflow-wrap:anywhere}
+ .font-card-heading>span{display:block;font-size:10px;overflow-wrap:anywhere}
+ .font-card-poster .font-poster-subtitle{font-size:clamp(8px,5.1cqw,12px);letter-spacing:.25em;margin-right:-.25em}
+ .font-card-poster .font-specimen-english{width:100%;font-size:clamp(8px,5.2cqw,12px);letter-spacing:0}
+ .font-card-poster .font-poster-alphabet{font-size:clamp(5px,3.2cqw,8px);letter-spacing:0}
+ .font-card-poster .reference-site-body{padding:6px 7cqw 8px}
+ .font-card-poster .font-description{font-size:10px;line-height:1.6}
+ .font-card-meta{font-size:10px;overflow-wrap:anywhere}
+ .font-card-poster .document-actions{display:grid;grid-template-columns:minmax(0,1fr);gap:0;margin-top:6px;padding-top:0}
+ .font-card .document-actions button,.font-card .document-actions a{width:100%;min-height:44px;justify-content:flex-end;font-size:10px;gap:3px}
+ .document-actions svg{width:12px;height:12px;flex:none}
+ .font-load-status{top:12px;left:6px;right:6px;font-size:10px}
+}
 /* Pure white surfaces with neutral text and borders. */
 @font-face{font-family:"ChienChia F";src:url('assets/ui/chienchia-heading.woff2') format('woff2');font-style:normal;font-weight:400;font-display:swap}
 @font-face{font-family:'WenJin Mincho Plane 0';src:url('assets/ui/wenjin-interface.woff2') format('woff2');font-style:normal;font-weight:400;font-display:swap}
